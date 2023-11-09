@@ -19,12 +19,20 @@ function App(): JSX.Element {
     setShowCompleted((prevShowCompleted) => !prevShowCompleted);
   }
 
-  const [completedGoals, setCompletedGoals] = useState<CompletedGoals>(() => {
-    const savedGoals = localStorage.getItem("completedGoals");
-    return savedGoals
-      ? JSON.parse(savedGoals)
-      : { achievements: [], weapons: [], armors: [], bosses: [] };
+  const [completedGoals, setCompletedGoals] = useState<CompletedGoals>({
+    achievements: [],
+    weapons: [],
+    armors: [],
+    bosses: [],
   });
+
+  useEffect(() => {
+    const savedGoals = localStorage.getItem("completedGoals");
+
+    if (savedGoals) {
+      setCompletedGoals(JSON.parse(savedGoals));
+    }
+  }, []);
 
   useEffect(() => {
     localStorage.setItem("completedGoals", JSON.stringify(completedGoals));
