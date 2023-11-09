@@ -1,0 +1,1769 @@
+{
+  "bosses": [
+    {
+      "name": "Abbess Ursula",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Abbess+Ursula"
+    },
+    {
+      "name": "Abiding Defenders",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Abiding+Defenders"
+    },
+    {
+      "name": "Adyr, the Bereft Exile",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Adyr,+the+Bereft+Exile"
+    },
+    {
+      "name": "Andreas of Ebb",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Andreas+of+Ebb+(Boss)"
+    },
+    {
+      "name": "Blessed Carrion Knight Sanisho",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Blessed+Carrion+Knight+Sanisho"
+    },
+    {
+      "name": "Bringer of Stillness",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bringer+of+Stillness+(Boss)"
+    },
+    {
+      "name": "Crimson Rector Percival",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Crimson+Rector+Percival"
+    },
+    {
+      "name": "Damarose the Marked",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Damarose+the+Marked+(Boss)"
+    },
+    {
+      "name": "Elianne the Starved",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Elianne+the+Starved"
+    },
+    {
+      "name": "Gentle Gaverus, Mistress of Hounds",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Gentle+Gaverus+Mistress+of+Hounds"
+    },
+    {
+      "name": "Griefbound Rowena",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Griefbound+Rowena"
+    },
+    {
+      "name": "Harrower Dervla, the Pledged Knight",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Harrower+Dervla,+the+Pledged+Knight"
+    },
+    {
+      "name": "Holy Bulwark Otto",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Holy+Bulwark+Otto"
+    },
+    {
+      "name": "Infernal Enchantress",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Infernal+Enchantress"
+    },
+    {
+      "name": "Judge Cleric, the Radiant Sentinel",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Judge+Cleric+the+Radiant+Sentinel"
+    },
+    {
+      "name": "Kinrangr Guardian Folard",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kinrangr+Guardian+Folard"
+    },
+    {
+      "name": "Mendacious Visage",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Mendacious+Visage"
+    },
+    {
+      "name": "Paladin's Burden",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Paladin's+Burden"
+    },
+    {
+      "name": "Pieta, She of Blessed Renewal",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pieta+She+of+Blessed+Renewal"
+    },
+    {
+      "name": "Rapturous Huntress of the Dusk",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rapturous+Huntress+of+the+Dusk"
+    },
+    {
+      "name": "Reinhold the Immured",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Reinhold+the+Immured"
+    },
+    {
+      "name": "Ruiner",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ruiner"
+    },
+    {
+      "name": "Scourged Sister Delyth",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Scourged+Sister+Delyth"
+    },
+    {
+      "name": "Skinstealer",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Skinstealer"
+    },
+    {
+      "name": "Spurned Progeny",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Spurned+Progeny"
+    },
+    {
+      "name": "Tancred, Master of Castigations",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Tancred,+Master+of+Castigations"
+    },
+    {
+      "name": "The Congregator of Flesh",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Congregator+of+Flesh"
+    },
+    {
+      "name": "The Hollow Crow",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Hollow+Crow"
+    },
+    {
+      "name": "The Hushed Saint",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Hushed+Saint"
+    },
+    {
+      "name": "The Iron Wayfarer (Boss)",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Iron+Wayfarer+(Boss)"
+    },
+    {
+      "name": "The Lightreaper",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Lightreaper"
+    },
+    {
+      "name": "The Sacred Resonance of Tenacity",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Sacred+Resonance+of+Tenacity"
+    },
+    {
+      "name": "The Sundered Monarch",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Sundered+Monarch"
+    },
+    {
+      "name": "The Unbroken Promise",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Unbroken+Promise"
+    }
+  ],
+  "weapons": [
+    {
+      "name": "Axe of the Flayed",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Axe+of+the+Flayed"
+    },
+    {
+      "name": "Beast Axe",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Beast+Axe"
+    },
+    {
+      "name": "Blackfeather Ranger Axe",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Blackfeather+Ranger+Axe"
+    },
+    {
+      "name": "Byron's Shovel",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Byron's+Shovel"
+    },
+    {
+      "name": "Fungus-Encrusted Pickaxe",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fungus-Encrusted+Pickaxe"
+    },
+    {
+      "name": "Grinning Axe",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Grinning+Axe"
+    },
+    {
+      "name": "Kinrangr Leader's Axe",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kinrangr+Leader's+Axe"
+    },
+    {
+      "name": "Pickaxe",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pickaxe"
+    },
+    {
+      "name": "Purger Axe",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Purger+Axe"
+    },
+    {
+      "name": "Raw Mangler Axe",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Raw+Mangler+Axe"
+    },
+    {
+      "name": "Skinstealer Cleaver",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Skinstealer+Cleaver"
+    },
+    {
+      "name": "Splitting Axe",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Splitting+Axe"
+    },
+    {
+      "name": "Wooden Cross",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Wooden+Cross"
+    },
+    {
+      "name": "Assassin's Bow",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Assassin's+Bow"
+    },
+    {
+      "name": "Blackfeather Ranger Bow",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Blackfeather+Ranger+Bow"
+    },
+    {
+      "name": "Bow of the Convert",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bow+of+the+Convert"
+    },
+    {
+      "name": "Bow of the Mutilated",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bow+of+the+Mutilated"
+    },
+    {
+      "name": "Defiled Infantry Bow",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Defiled+Infantry+Bow"
+    },
+    {
+      "name": "Fungal Bowman Bow",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fungal+Bowman+Bow"
+    },
+    {
+      "name": "Hallowed Bow",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hallowed+Bow"
+    },
+    {
+      "name": "Kinrangr Hunter Bow",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kinrangr+Hunter+Bow"
+    },
+    {
+      "name": "Sin-Piercer Bow",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sin-Piercer+Bow"
+    },
+    {
+      "name": "Udirangr Shaman Bow",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Udirangr+Shaman+Bow"
+    },
+    {
+      "name": "Abbess Chalice",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Abbess+Chalice"
+    },
+    {
+      "name": "Agony's Light",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Agony's+Light"
+    },
+    {
+      "name": "Charm of Fortune's Sight",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Charm+of+Fortune's+Sight"
+    },
+    {
+      "name": "Exacter Scripture",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Exacter+Scripture"
+    },
+    {
+      "name": "Hungering Knot",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hungering+Knot"
+    },
+    {
+      "name": "Lord Catalyst",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lord+Catalyst"
+    },
+    {
+      "name": "Lost Berescu's Catalyst",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lost+Berescu's+Catalyst"
+    },
+    {
+      "name": "Miranda's Touch",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Miranda's+Touch"
+    },
+    {
+      "name": "Nohuta Effigy",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Nohuta+Effigy"
+    },
+    {
+      "name": "Orian Preacher Catalyst",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Orian+Preacher+Catalyst"
+    },
+    {
+      "name": "Putrid Child Catalyst",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Putrid+Child+Catalyst"
+    },
+    {
+      "name": "Pyric Cultist Catalyst",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pyric+Cultist+Catalyst"
+    },
+    {
+      "name": "Radiant Purifier Catalyst",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Radiant+Purifier+Catalyst"
+    },
+    {
+      "name": "Rhogar Heart",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rhogar+Heart"
+    },
+    {
+      "name": "Searing Accusation",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Searing+Accusation"
+    },
+    {
+      "name": "Sunken Beseecher",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sunken+Beseecher"
+    },
+    {
+      "name": "Wilmarc's Catalyst",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Wilmarc's+Catalyst"
+    },
+    {
+      "name": "Death's Finger",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Death's+Finger"
+    },
+    {
+      "name": "Edict's Aim",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Edict's+Aim"
+    },
+    {
+      "name": "Harrower Dervla's Crossbow",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Harrower+Dervla's+Crossbow"
+    },
+    {
+      "name": "Marksman Crossbow",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Marksman+Crossbow"
+    },
+    {
+      "name": "Multi-Shot Crossbow",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Multi-Shot+Crossbow"
+    },
+    {
+      "name": "Partisan Crossbow",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Partisan+Crossbow"
+    },
+    {
+      "name": "Split Crossbow",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Split+Crossbow"
+    },
+    {
+      "name": "Trapper Crossbow",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Trapper+Crossbow"
+    },
+    {
+      "name": "Broken Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Broken+Sword"
+    },
+    {
+      "name": "Exacter Dagger",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Exacter+Dagger"
+    },
+    {
+      "name": "Exiled Stalker Dagger",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Exiled+Stalker+Dagger"
+    },
+    {
+      "name": "Fungal Bowman Dagger",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fungal+Bowman+Dagger"
+    },
+    {
+      "name": "Jeffrey's Dagger",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Jeffrey's+Dagger"
+    },
+    {
+      "name": "Kinrangr Hunter Dagger",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kinrangr+Hunter+Dagger"
+    },
+    {
+      "name": "Left-hand Lightreaper Dagger",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Left-hand+Lightreaper+Dagger"
+    },
+    {
+      "name": "Right-hand Lightreaper Dagger",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Right-hand+Lightreaper+Dagger"
+    },
+    {
+      "name": "Neophyte Dagger",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Neophyte+Dagger"
+    },
+    {
+      "name": "Skinstealer Knife",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Skinstealer+Knife"
+    },
+    {
+      "name": "Bloodletter",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bloodletter"
+    },
+    {
+      "name": "Broken Bucket",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Broken+Bucket"
+    },
+    {
+      "name": "Empowering Claw",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Empowering+Claw"
+    },
+    {
+      "name": "Final Whisper",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Final+Whisper"
+    },
+    {
+      "name": "Fist of Insight",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fist+of+Insight"
+    },
+    {
+      "name": "Lord's Bite",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lord's+Bite"
+    },
+    {
+      "name": "Reject's Blade",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Reject's+Blade"
+    },
+    {
+      "name": "Shovel-Head",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Shovel-Head"
+    },
+    {
+      "name": "Talon",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Talon"
+    },
+    {
+      "name": "Blacksmith's Pride",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Blacksmith's+Pride"
+    },
+    {
+      "name": "Flail of Holy Agony",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Flail+of+Holy+Agony"
+    },
+    {
+      "name": "Flail of Wisdom",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Flail+of+Wisdom"
+    },
+    {
+      "name": "Infernal Enchantress Flail",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Infernal+Enchantress+Flail"
+    },
+    {
+      "name": "Partisan Flail",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Partisan+Flail"
+    },
+    {
+      "name": "Pyric Cultist Flail",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pyric+Cultist+Flail"
+    },
+    {
+      "name": "Scourged Sister Flail",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Scourged+Sister+Flail"
+    },
+    {
+      "name": "Stomund's Flail",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Stomund's+Flail"
+    },
+    {
+      "name": "Angel's Axe",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Angel's+Axe"
+    },
+    {
+      "name": "Damarose's Cleaver",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Damarose's+Cleaver"
+    },
+    {
+      "name": "Executioner's Axe",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Executioner's+Axe"
+    },
+    {
+      "name": "Kinrangr Guardian Axe",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kinrangr+Guardian+Axe"
+    },
+    {
+      "name": "Lord Axe",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lord+Axe"
+    },
+    {
+      "name": "Marco's Axe",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Marco's+Axe"
+    },
+    {
+      "name": "Ruiner Axe",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ruiner+Axe"
+    },
+    {
+      "name": "Tassara's Axe",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Tassara's+Axe"
+    },
+    {
+      "name": "The Toll",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Toll"
+    },
+    {
+      "name": "Tundra Axe",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Tundra+Axe"
+    },
+    {
+      "name": "Anvil Hammer",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Anvil+Hammer"
+    },
+    {
+      "name": "Crushing Gaze",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Crushing+Gaze"
+    },
+    {
+      "name": "Devotion's Might",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Devotion's+Might"
+    },
+    {
+      "name": "Faithful Bludgeon",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Faithful+Bludgeon"
+    },
+    {
+      "name": "Holy Bulwark Mace",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Holy+Bulwark+Mace"
+    },
+    {
+      "name": "Nohuta Ritual Hammer",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Nohuta+Ritual+Hammer"
+    },
+    {
+      "name": "Queen's Head Hammer",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Queen's+Head+Hammer"
+    },
+    {
+      "name": "Righteous Pulveriser",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Righteous+Pulveriser"
+    },
+    {
+      "name": "Sacred Resonance Hammer",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sacred+Resonance+Hammer"
+    },
+    {
+      "name": "Scale-Breaker",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Scale-Breaker"
+    },
+    {
+      "name": "Taxidermist's Hammer",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Taxidermist's+Hammer"
+    },
+    {
+      "name": "The Iron Wayfarer's Hammer",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Iron+Wayfarer's+Hammer"
+    },
+    {
+      "name": "Ancestor's Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ancestor's+Sword"
+    },
+    {
+      "name": "Bloody Glory",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bloody+Glory"
+    },
+    {
+      "name": "Ebonlight Abiding Defender Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ebonlight+Abiding+Defender+Sword"
+    },
+    {
+      "name": "Fallen Lord's Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fallen+Lord's+Sword"
+    },
+    {
+      "name": "Harrower Dervla's Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Harrower+Dervla's+Sword"
+    },
+    {
+      "name": "Justice",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Justice"
+    },
+    {
+      "name": "Luminous Abiding Defender Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Luminous+Abiding+Defender+Sword"
+    },
+    {
+      "name": "Pale Butcher's Blade",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pale+Butcher's+Blade"
+    },
+    {
+      "name": "Ravager Gregory's Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ravager+Gregory's+Sword"
+    },
+    {
+      "name": "Resh-Mesah's Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Resh-Mesah's+Sword"
+    },
+    {
+      "name": "Sword of Skin and Tooth",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sword+of+Skin+and+Tooth"
+    },
+    {
+      "name": "Sword of the Flayed",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sword+of+the+Flayed"
+    },
+    {
+      "name": "Crimson Rector Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Crimson+Rector+Sword"
+    },
+    {
+      "name": "Fitzroy's Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fitzroy's+Sword"
+    },
+    {
+      "name": "Judge Cleric's Corrupted Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Judge+Cleric's+Corrupted+Sword"
+    },
+    {
+      "name": "Judge Cleric's Radiant Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Judge+Cleric's+Radiant+Sword"
+    },
+    {
+      "name": "Old Mournstead Large Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Old+Mournstead+Large+Sword"
+    },
+    {
+      "name": "Paladin Isaac's Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Paladin+Isaac's+Sword"
+    },
+    {
+      "name": "Proselyte Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Proselyte+Sword"
+    },
+    {
+      "name": "Rosamund's Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rosamund's+Sword"
+    },
+    {
+      "name": "The Red Hand",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Red+Hand"
+    },
+    {
+      "name": "Thorned Crimson Rector Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Thorned+Crimson+Rector+Sword"
+    },
+    {
+      "name": "Udirangr Warwolf Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Udirangr+Warwolf+Sword"
+    },
+    {
+      "name": "Vanguard Barros' Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Vanguard+Barros'+Sword"
+    },
+    {
+      "name": "Avowed Mace",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Avowed+Mace"
+    },
+    {
+      "name": "Bartholomew's Hammer",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bartholomew's+Hammer"
+    },
+    {
+      "name": "Drustan's Hammer",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Drustan's+Hammer"
+    },
+    {
+      "name": "Exacter Dunmire's Cane",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Exacter+Dunmire's+Cane"
+    },
+    {
+      "name": "Gerlinde's Hammer",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Gerlinde's+Hammer"
+    },
+    {
+      "name": "Hammer of Holy Agony",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hammer+of+Holy+Agony"
+    },
+    {
+      "name": "Heretical Sentinel's Hammer",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Heretical+Sentinel's+Hammer"
+    },
+    {
+      "name": "Kinrangr Rebel's Hammer",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kinrangr+Rebel's+Hammer"
+    },
+    {
+      "name": "Orian Preacher Hammer",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Orian+Preacher+Hammer"
+    },
+    {
+      "name": "Precision Hammer",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Precision+Hammer"
+    },
+    {
+      "name": "Pureblade Mace",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pureblade+Mace"
+    },
+    {
+      "name": "Stick",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Stick"
+    },
+    {
+      "name": "Abbess Staff",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Abbess+Staff"
+    },
+    {
+      "name": "Carrion Knight Staff",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Carrion+Knight+Staff"
+    },
+    {
+      "name": "Conflagrant Seer Staff",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Conflagrant+Seer+Staff"
+    },
+    {
+      "name": "Duty's Chime",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Duty's+Chime"
+    },
+    {
+      "name": "Hushed Saint's Halberd",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hushed+Saint's+Halberd"
+    },
+    {
+      "name": "Nohuta Polearm",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Nohuta+Polearm"
+    },
+    {
+      "name": "Old Mournstead Pike",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Old+Mournstead+Pike"
+    },
+    {
+      "name": "Overseer's Halberd",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Overseer's+Halberd"
+    },
+    {
+      "name": "Putrid Polearm",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Putrid+Polearm"
+    },
+    {
+      "name": "Pyric Cultist Staff",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pyric+Cultist+Staff"
+    },
+    {
+      "name": "Radiant Purifier Polearm",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Radiant+Purifier+Polearm"
+    },
+    {
+      "name": "Rhogar's Reach",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rhogar's+Reach"
+    },
+    {
+      "name": "Serrated Staff",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Serrated+Staff"
+    },
+    {
+      "name": "Tancred's Mancatcher",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Tancred's+Mancatcher"
+    },
+    {
+      "name": "Andreas of Ebb's Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Andreas+of+Ebb's+Sword"
+    },
+    {
+      "name": "Bloodlust",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bloodlust"
+    },
+    {
+      "name": "Left-hand Bringer of Stillness Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Left-hand+Bringer+of+Stillness+Sword"
+    },
+    {
+      "name": "Right-hand Bringer of Stillness Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Right-hand+Bringer+of+Stillness+Sword"
+    },
+    {
+      "name": "Devoted Chopper",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Devoted+Chopper"
+    },
+    {
+      "name": "Elianne the Starved's Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Elianne+the+Starved's+Sword"
+    },
+    {
+      "name": "Hallowed Condemnation",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hallowed+Condemnation"
+    },
+    {
+      "name": "Hallowed Knight Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hallowed+Knight+Sword"
+    },
+    {
+      "name": "Hallowed Praise",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hallowed+Praise"
+    },
+    {
+      "name": "Kukajin's Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kukajin's+Sword"
+    },
+    {
+      "name": "Melted Dark Crusader Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Melted+Dark+Crusader+Sword"
+    },
+    {
+      "name": "Old Mournstead Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Old+Mournstead+Sword"
+    },
+    {
+      "name": "Perdam Falchion",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Perdam+Falchion"
+    },
+    {
+      "name": "Pieta's Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pieta's+Sword"
+    },
+    {
+      "name": "Putrid Child Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Putrid+Child+Sword"
+    },
+    {
+      "name": "Left-hand Lightreaper Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Left-hand+Lightreaper+Sword"
+    },
+    {
+      "name": "Right-hand Lightreaper Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Right-hand+Lightreaper+Sword"
+    },
+    {
+      "name": "Rusty Cutter",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rusty+Cutter"
+    },
+    {
+      "name": "Sin-Piercer Sword",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sin-Piercer+Sword"
+    },
+    {
+      "name": "Bell Staff",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bell+Staff"
+    },
+    {
+      "name": "Chipped Spear",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Chipped+Spear"
+    },
+    {
+      "name": "Eviscerating Spear",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Eviscerating+Spear"
+    },
+    {
+      "name": "Judge Cleric's Spear",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Judge+Cleric's+Spear"
+    },
+    {
+      "name": "Lightreaper's Spear",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lightreaper's+Spear"
+    },
+    {
+      "name": "Mournstead Infantry Spear",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Mournstead+Infantry+Spear"
+    },
+    {
+      "name": "Old Mournstead Spear",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Old+Mournstead+Spear"
+    },
+    {
+      "name": "Pointed Stick",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pointed+Stick"
+    },
+    {
+      "name": "Saint Latimer's Relic Spear",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Saint+Latimer's+Relic+Spear"
+    },
+    {
+      "name": "Sanctified Huntress Spear",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sanctified+Huntress+Spear"
+    },
+    {
+      "name": "Shuja Warrior Spear",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Shuja+Warrior+Spear"
+    },
+    {
+      "name": "Skinstealer Spear",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Skinstealer+Spear"
+    },
+    {
+      "name": "Veil-Piercer",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Veil-Piercer"
+    },
+    {
+      "name": "Accusing Spirit",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Accusing+Spirit"
+    },
+    {
+      "name": "Banner Javelin of Assault",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Banner+Javelin+of+Assault"
+    },
+    {
+      "name": "Banner Javelin of Protection",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Banner+Javelin+of+Protection"
+    },
+    {
+      "name": "Basic Bolts",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Basic+Bolts"
+    },
+    {
+      "name": "Bloody Hatchet",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bloody+Hatchet"
+    },
+    {
+      "name": "Cinder Arrows",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Cinder+Arrows"
+    },
+    {
+      "name": "Cinder Bolts",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Cinder+Bolts"
+    },
+    {
+      "name": "Corrupted Banner Javelin",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Corrupted+Banner+Javelin"
+    },
+    {
+      "name": "Cursed Dart",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Cursed+Dart"
+    },
+    {
+      "name": "Cursed Effigy",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Cursed+Effigy"
+    },
+    {
+      "name": "Empyrean Grenade",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Empyrean+Grenade"
+    },
+    {
+      "name": "Enhanced Accusing Spirit",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Accusing+Spirit"
+    },
+    {
+      "name": "Enhanced Banner Javelin of Assault",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Banner+Javelin+of+Assault"
+    },
+    {
+      "name": "Enhanced Banner Javelin of Protection",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Banner+Javelin+of+Protection"
+    },
+    {
+      "name": "Enhanced Bloody Hatchet",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Bloody+Hatchet"
+    },
+    {
+      "name": "Enhanced Cursed Dart",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Cursed+Dart"
+    },
+    {
+      "name": "Enhanced Cursed Effigy",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Cursed+Effigy"
+    },
+    {
+      "name": "Enhanced Empyrean Grenade",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Empyrean+Grenade"
+    },
+    {
+      "name": "Enhanced Fire Grenade",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Fire+Grenade"
+    },
+    {
+      "name": "Enhanced Forceburst Parchment",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Forceburst+Parchment"
+    },
+    {
+      "name": "Enhanced Forsaken Grenade",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Forsaken+Grenade"
+    },
+    {
+      "name": "Enhanced Grenade",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Grenade"
+    },
+    {
+      "name": "Enhanced Holy Grenade",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Holy+Grenade"
+    },
+    {
+      "name": "Enhanced Lacerating Knife",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Lacerating+Knife"
+    },
+    {
+      "name": "Enhanced Lump Hammer",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Lump+Hammer"
+    },
+    {
+      "name": "Enhanced Poison Javelin",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Poison+Javelin"
+    },
+    {
+      "name": "Enhanced Poisoning Knife",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Poisoning+Knife"
+    },
+    {
+      "name": "Enhanced Radiantburst Parchment",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Radiantburst+Parchment"
+    },
+    {
+      "name": "Enhanced Rhogar Oil Flask",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Rhogar+Oil+Flask"
+    },
+    {
+      "name": "Enhanced Short Javelin",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Short+Javelin"
+    },
+    {
+      "name": "Enhanced Snake Oil Grenade",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Snake+Oil+Grenade"
+    },
+    {
+      "name": "Enhanced Umbral Burrower",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Umbral+Burrower"
+    },
+    {
+      "name": "Explosive Bolts",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Explosive+Bolts"
+    },
+    {
+      "name": "Fire Grenade",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fire+Grenade"
+    },
+    {
+      "name": "Forceburst Parchment",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Forceburst+Parchment"
+    },
+    {
+      "name": "Forsaken Grenade",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Forsaken+Grenade"
+    },
+    {
+      "name": "Frost Arrows",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Frost+Arrows"
+    },
+    {
+      "name": "Grenade",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Grenade"
+    },
+    {
+      "name": "Holy Grenade",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Holy+Grenade"
+    },
+    {
+      "name": "Lacerating Knife",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lacerating+Knife"
+    },
+    {
+      "name": "Lump Hammer",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lump+Hammer"
+    },
+    {
+      "name": "Oak Arrows",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Oak+Arrows"
+    },
+    {
+      "name": "Poison Arrows",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Poison+Arrows"
+    },
+    {
+      "name": "Poison Javelin",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Poison+Javelin"
+    },
+    {
+      "name": "Poisoning Knife",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Poisoning+Knife"
+    },
+    {
+      "name": "Precision Arrows",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Precision+Arrows"
+    },
+    {
+      "name": "Pulsing Arrows",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pulsing+Arrows"
+    },
+    {
+      "name": "Radiant Arrows",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Radiant+Arrows"
+    },
+    {
+      "name": "Radiant Bolts",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Radiant+Bolts"
+    },
+    {
+      "name": "Radiantburst Parchment",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Radiantburst+Parchment"
+    },
+    {
+      "name": "Rhogar Oil Flask",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rhogar+Oil+Flask"
+    },
+    {
+      "name": "Rived Bolts",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rived+Bolts"
+    },
+    {
+      "name": "Short Javelin",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Short+Javelin"
+    },
+    {
+      "name": "Snake Oil Grenade",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Snake+Oil+Grenade"
+    },
+    {
+      "name": "Throwing Rock",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Throwing+Rock"
+    },
+    {
+      "name": "Twisted Bolts",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Twisted+Bolts"
+    },
+    {
+      "name": "Umbral Burrower",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Umbral+Burrower"
+    },
+    {
+      "name": "Weighted Arrows",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Weighted+Arrows"
+    },
+    {
+      "name": "Weighted Bolts",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Weighted+Bolts"
+    },
+    {
+      "name": "Wither Arrows",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Wither+Arrows"
+    },
+    {
+      "name": "Wither Bolts",
+      "description": "dont fill this yet, just add the key",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Wither+Bolts"
+    }
+  ],
+  "armors": [
+    {
+      "name": "Abbess Set",
+      "description": "Set pieces can randomly drop from theAbbessenemy.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Abbess+Set"
+    },
+    {
+      "name": "Abiding Defender Set",
+      "description": "Set pieces can randomly drop from theAbiding Defenderenemy.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Abiding+Defender+Set"
+    },
+    {
+      "name": "Andreas of Ebb's Set",
+      "description": "Upper Calrath: The sleeves and leggings pieces of this armor set drop fromAndreas of Ebb (Boss)after defeating him.\u00a0The boss battle triggers after fighting The Lightreaper and when you are heading towards the gates of Bramis Castle.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Andreas+of+Ebb's+Set"
+    },
+    {
+      "name": "Angel of the Void Set",
+      "description": "Forsaken Fen: After picking up thePyric Cultist Staff, go to the bridge and jump down to the right. Destroy all theUmbral Eggsin the area, then look back at the bridge and soulflay the body on it to weaken the Umbral Tumor. At the end of this area, there are some pieces of wood you can cut down to reveal another body to soulflay, again weakening the tumor. With three bodies soulflayed, the Umbral Tumor will fade away, opening a way between this area and the lake. Do not head to the unblocked path yet. Facing the direction where the Umbral Tumor is previously located, take a sharp turn to the left and follow the path. Underneath a bridge, and in an alcove on the right at the corner, you can open a chest that contains theAngel of the Void Set, which consists ofAngel of the Void Armour,Angel of the Void Mask,Angel of the Void Gloves, andAngel of the Void Trousers.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Angel+of+the+Void+Set"
+    },
+    {
+      "name": "Antique Hallowed Sentinel Set",
+      "description": "Pilgrim's Perch: From theVestige of Blind Agatha, enter the tunnel on the right. Once you reach the waterfall, use yourUmbral Lampto transition to the Umbral realm, then drop down and continue following the path on the right and stick to the right side. Be careful of some enemies and the explosives stuck on the wall. Turn left once you see a table with lit candles on your right, there should also be\u00a0candelabra on your left as you turn. Once you enter the room, there's a chest containing theAntique Hallowed Sentinel Set.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Antique+Hallowed+Sentinel+Set"
+    },
+    {
+      "name": "Ardent Penitent Set",
+      "description": "Set pieces can randomly drop from theArdent Penitentenemy.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ardent+Penitent+Set"
+    },
+    {
+      "name": "Avowed Set",
+      "description": "Set pieces can randomly drop from theAvowedenemy.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Avowed+Set"
+    },
+    {
+      "name": "Blackfeather Ranger Set",
+      "description": "Starting set for theBlackfeather Ranger",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Blackfeather+Ranger+Set"
+    },
+    {
+      "name": "Bones Set",
+      "description": "Skyrest Bridge: The whole set can be purchased from theShrine of the Putrid Mother.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bones+Set"
+    },
+    {
+      "name": "Byron's Set",
+      "description": "Skyrest Bridge:Winterberrysells the pieces of this armor set if you complete the quest line \"Find the Thief\". Completing the quest will triggerByronandWinterberryto move toSkyrest Bridgeand add new wares (including the complete set) to the merchant's shop.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Byron's+Set"
+    },
+    {
+      "name": "Calrath Guardsman Set",
+      "description": "Upper CalrathB (accessed after completing the \"Cistern\" location): The Armor set can be found inside a chest on a Terrace. This chest will be close to the former invisible ladder that can be triggered to appear. From the Ladder\u00a0Head up to drop down to the platform, cross to the other side, and climb a shorter ladder. You'll find a chest on the terrace containing (Would need to activate the platform by going to the\u00a0Umbral)",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Calrath+Guardsman+Set"
+    },
+    {
+      "name": "Carrion Knight Set",
+      "description": "The skirt piece for this armor set drops from theBlessed Carrion Knight Sanishoupon defeating the boss at theTower of Penance.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Carrion+Knight+Set"
+    },
+    {
+      "name": "Condemned Set",
+      "description": "Starting set for theCondemned",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Condemned+Set"
+    },
+    {
+      "name": "Conflagrant Seer Set",
+      "description": "Set pieces can randomly drop from theConflagrant Seerenemy.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Conflagrant+Seer+Set"
+    },
+    {
+      "name": "Corrupted Cleric's Set",
+      "description": "Requires theRemembrance of Judge Cleric The Radiant Sentinelfor the pieces of this armor set to be purchasable fromMolhuatSkyrest Bridge.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Corrupted+Cleric's+Set"
+    },
+    {
+      "name": "Corrupted Penitent Set",
+      "description": "Set pieces can randomly drop from theCorrupted Penitentenemy.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Corrupted+Penitent+Set"
+    },
+    {
+      "name": "Corrupted Pilgrim Set",
+      "description": "The whole set can be purchased from theDamarose the MarkedinPilgrim's Perch(Unconfirmed)",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Corrupted+Pilgrim+Set"
+    },
+    {
+      "name": "Crimson Rector Set",
+      "description": "The gauntlet piece drops as a reward upon defeating the boss,Crimson Rector PercivalatFitzroy's Gorge. This boss is guarding the settlement with huge wooden structures. This is the same area where you will unlock the lift shortcut to Skyrest Bridge.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Crimson+Rector+Set"
+    },
+    {
+      "name": "Cursed Set",
+      "description": "Manse of the Hallowed Brothers: After the gatehouse past the first Manse Vestige, Eventually you will encounter a Bone Bridge, Cross the bone bridge past the Umbral Tumor, then climb up the stairs to the top. A Bringer of Stillness and several Remnants will be waiting for you. When defeated,\u00a0the Bringer of Stillness may drop aRegular Deralium Nugget, aVestige Seed, andDimexus. The Umbral Belly will drop theCursed Setwhen soulflayed. There will also be an Emergence Effigy you can interact with nearby to return to theAxiom.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Cursed+Set"
+    },
+    {
+      "name": "Damarose's Set",
+      "description": "The full armor set drops fromDamarose the Marked.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Damarose's+Set"
+    },
+    {
+      "name": "Descrier Guide Set",
+      "description": "Skyrest Bridge: When you reach the circular structure after opening the door with theSkyrest Bridge Key, there is a soulflay target. Circle to the left of the structure, to find first aFaint Vigor Skulland then the wholeDescrier Guide Setinside a chest.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Descrier+Guide+Set"
+    },
+    {
+      "name": "Despair's Set",
+      "description": "Pieces for this armor set can drop from theWomb of Despairenemy that is encountered in various locations in the Umbral Realm.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Despair's+Set"
+    },
+    {
+      "name": "Drustan's Set",
+      "description": "CompleteDrustan'squest:Brothers of Mournstead. Found on the balcony of the broken tower inBramis Castle, next to aStigmaand loot. The one in front of the stigma is a fake where aRavenous Fascinatorwill ambush players. This loot will giveMelchior's Ring,Boar's Head Shield,Drustan's Hammer,Drustan's Glove, andDrustan's Garb.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Drustan's+Set"
+    },
+    {
+      "name": "Elianne the Starved's Set",
+      "description": "Skyrest Bridge: Purchasable fromMolhuafter acquiring theRemembrance of Elianne the Starved.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Elianne+the+Starved's+Set"
+    },
+    {
+      "name": "Enslaved Miner Set",
+      "description": "Sunless Skein: This set is dropped byEnslaved MinerEnemieswho are commonly found in the Hoist section in Sunless Skein.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enslaved+Miner+Set"
+    },
+    {
+      "name": "Exacter Set",
+      "description": "Requires completion of Exacter Dunmire's quest chain. For more information and clarity, we highly suggest checkingExacter Dunmire's Questline.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Exacter+Set"
+    },
+    {
+      "name": "Exiled Stalker Set",
+      "description": "Starting set for theExiled Stalkerclass.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Exiled+Stalker+Set"
+    },
+    {
+      "name": "Failed Pilgrim's Set",
+      "description": "Set pieces drop\u00a0fromThehk-Ihiron the upper floor of the Monastery atThe Empyrean, overlooking\u00a0the boss arena of Judge Cleric.\u00a0Please visit the \"The Rejected Pilgrim\" page to learn more about Thehk-Ihir's quest line.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Failed+Pilgrim's+Set"
+    },
+    {
+      "name": "Faithless Set",
+      "description": "Skyrest Bridge: The whole set can be purchased from theShrine of Orius",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Faithless+Set"
+    },
+    {
+      "name": "Fetid Sacrifice Set",
+      "description": "Set pieces can randomly drop from theFetid Sacrificeenemy.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fetid+Sacrifice+Set"
+    },
+    {
+      "name": "Fitzroy's Set",
+      "description": "Fitzroy's Gorge: After picking up anAnimated Vigor Skullon the corpse near some breakable objects at the top of the tower, across from it you'll see a tiny gap on the wall to your right. Outside, you can proceed on a narrow path to keep heading up the tower through a ladder at the end. Carefully cross the wooden beam to another ladder up. At the top, you're rewarded for your climb with a chest containingFitzroy's\u00a0Set.See it on the LotF Fitzroy's Gorge Map.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fitzroy's+Set"
+    },
+    {
+      "name": "Fungal Bowman Set",
+      "description": "Drops fromFungal Bowman",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fungal+Bowman+Set"
+    },
+    {
+      "name": "Hallowed Knight Set",
+      "description": "Starting set for theHallowed Knight",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hallowed+Knight+Set"
+    },
+    {
+      "name": "Harrower Set",
+      "description": "Requires theRemembrance of the Unbroken Promisefor the set to be purchasable fromMolhuatSkyrest Bridge.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Harrower+Set"
+    },
+    {
+      "name": "Holy Bulwark Set",
+      "description": "Set pieces can randomly drop from theHoly Bulwarkenemy.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Holy+Bulwark+Set"
+    },
+    {
+      "name": "Hushed Saint's Set",
+      "description": "Requires theRemembrance of the Hushed Saintfor the pieces of this set to be purchasable fromMolhuatSkyrest Bridge.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hushed+Saint's+Set"
+    },
+    {
+      "name": "Iselle's Set",
+      "description": "Use theEmpowered Rune of Adyrwhen interacting withIselleto acquire the full set.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Iselle's+Set"
+    },
+    {
+      "name": "J'deyl Set",
+      "description": "Fief of the Chill Curse: From theUmbral Flowerbedby the ravine, continue along the ruined houses and rooftops. when you reach a large area with a set of stairs, head up the stairs until you find a chest. Open it and pick up theJ'deyl Setwhich consists of x1J'deyl Skull Helm, x1J'deyl Bone Armour, x1J'deyl Bone Gloves, x1J'deyl Trousers.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/J'deyl+Set"
+    },
+    {
+      "name": "Judge Cleric's Set",
+      "description": "Requires theRemembrance of Judge Cleric The Radiant Sentinelfor the pieces of this armor set to be purchasable fromMolhuatSkyrest Bridge.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Judge+Cleric's+Set"
+    },
+    {
+      "name": "Kinrangr Guardian Set",
+      "description": "Set pieces can randomly drop from theKinrangr Guardianenemy.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kinrangr+Guardian+Set"
+    },
+    {
+      "name": "Kinrangr Hunter Set",
+      "description": "Set pieces can randomly drop from theKinrangr Hunterenemy.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kinrangr+Hunter+Set"
+    },
+    {
+      "name": "Knight of Adyr Set",
+      "description": "Fitzroy's Gorge: Can be purchased with Severed Hands\u00a0at theShrine of Adyr.\u00a0From theVestige of Betrayed Eliard,\u00a0simply continue on the path and turn the corner to see a body on a throne with red lighting and several severed hands and chains.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Knight+of+Adyr+Set"
+    },
+    {
+      "name": "Kukajin's Set",
+      "description": "Skyrest Bridge: Found in one of the alcoves in the Sleeping Quarters. This is also the same spot where you used to payKukajin's Invoice.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kukajin's+Set"
+    },
+    {
+      "name": "Lightreaper's Set",
+      "description": "Requires theRemembrance of the Lightreaperfor the pieces of this armor set to be purchasable fromMolhuatSkyrest Bridge.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lightreaper's+Set"
+    },
+    {
+      "name": "Lord Set",
+      "description": "Starting equipment of theLordclass.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lord+Set"
+    },
+    {
+      "name": "Marksman Set",
+      "description": "Set pieces can randomly drop from theMarksmanenemy.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Marksman+Set"
+    },
+    {
+      "name": "Mournstead Infantry Set",
+      "description": "Starting Equipment for theMournstead Infantryclass.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Mournstead+Infantry+Set"
+    },
+    {
+      "name": "Neophyte Set",
+      "description": "The whole set can be purchased fromExacter DunmireinSkyrest Bridge",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Neophyte+Set"
+    },
+    {
+      "name": "Noblewoman Set",
+      "description": "Upper CalrathB (accessed after completingCistern): From theVestige of the Forgotten Guardianat theCistern, open the nearby doors if you haven't already to get to a later section ofUpper Calrath. Turn right when you exit the doors and head down the slope. If you haven't already removed the Umbral Tumor at the base of the slope, you can find the body you need to soulflay by looking up about halfway down the slope. You can reach it by taking the Umbral ladder up to the building anInfernal Enchantressis standing on. Make your way\u00a0to the base of the slope, then cross through the metal gates in theUmbral. Heading forward takes you to a large courtyard filled with petrified bodies. Head through the doorway on the other side that has a red hue to it and\u00a0take the stairs past it upwards. Pass by the Stigma at the top of the stairs and drop down to the lower slope. Turn right to find a second Stigma and walk past it. At the bottom of the stairs, hop down onto the top of a green tent, then hop down onto the ground below. Turn left, then head past a third Stigma and\u00a0go through the archway ahead. Enter the building on the right, where you'll pass by a hallway resembling a marketplace, and at the end, turn left to immediately find theNoblewoman Seton a corpse.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Noblewoman+Set"
+    },
+    {
+      "name": "Orian Preacher Set",
+      "description": "Starting set for theOrian Preacher.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Orian+Preacher+Set"
+    },
+    {
+      "name": "Overseer Set",
+      "description": "Upper CalrathA: In the Upper Calrath A and in the area near the\u00a0Emergence Effigy, and past it a spiral staircase going up and down.\u00a0Head up one floor to find theOverseer Trousers,Overseer Garb,Overseer Mask, andOverseer Gloves, all in a chest.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Overseer+Set"
+    },
+    {
+      "name": "Paladin Set",
+      "description": "Starting equipment of theDark Crusaderclass.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Paladin+Set"
+    },
+    {
+      "name": "Partisan Set",
+      "description": "Starting set for thePartisan",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Partisan+Set"
+    },
+    {
+      "name": "Pieta's Set",
+      "description": "Requires theRemembrance of Pieta, She of Blessed Renewalfor the pieces of this armor set to be purchasable fromMolhuatSkyrest Bridge.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pieta's+Set"
+    },
+    {
+      "name": "Pilgrim Set",
+      "description": "Set pieces can randomly drop from thePilgrimenemy.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pilgrim+Set"
+    },
+    {
+      "name": "Prole Set",
+      "description": "Lower Calrath:\u00a0TheProle Hat,Prole Garb,Prole Wrappings, and theProle Trouserswill be obtained together below the stairs on the lower floor of the\u00a0\u00a0Lower Calrath Alehouse where you can also obtain theMap of Calrath Slumsin another room with the Vestige of Lydia the Numb Witch (Lower Calrath Alehouse). InLower Calrath, players will need to Soulflay a bridge to get across to reach the\u00a0village slums. You'll pass the VillageUmbral Flowerbed.\u00a0Across the flowerbed is a small ramp leading into the inner parts of the buildings also known as the Calrath Slums. These buildings are lined with wooden platforms that can be used to get around. Make your way across and there will be a building with an opening. This is the alehouse. Enter the next room through the broken wall and head down the stairs. Loot the item below the stairs to obtain the Prole Set.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Prole+Set"
+    },
+    {
+      "name": "Proselyte Set",
+      "description": "Set pieces can randomly drop from theProselyteenemy.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Proselyte+Set"
+    },
+    {
+      "name": "Pureblade Set",
+      "description": "Set pieces can randomly drop from thePurebladeenemy.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pureblade+Set"
+    },
+    {
+      "name": "Purger Set",
+      "description": "Skyrest Bridge: Can be purchased fromExacter Dunmire. Requires\u00a0a specific heretical item to be given to Exacter Dunmire to expand the merchant's inventory and for this item to appear in the shop.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Purger+Set"
+    },
+    {
+      "name": "Putrid Child Set",
+      "description": "Starting equipment of thePutrid Childclass.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Putrid+Child+Set"
+    },
+    {
+      "name": "Pyric Cultist Set",
+      "description": "Starting equipment for thePyric Cultistclass",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pyric+Cultist+Set"
+    },
+    {
+      "name": "Radiant Purifier Set",
+      "description": "Starting equipment of theRadiant Purifierclass.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Radiant+Purifier+Set"
+    },
+    {
+      "name": "Rapturous Huntress Set",
+      "description": "Abbey of the Hallowed Sisters: The helm piece drops as a reward upon defeating the boss,Rapturous Huntress of the Dusk.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rapturous+Huntress+Set"
+    },
+    {
+      "name": "Ravager Set",
+      "description": "Skyrest Bridge: Can be purchased fromExacter Dunmire. You would need to give himRavager Gregory's Rosaryto expand his inventory and purchase\u00a0the armor set pieces\u00a0from him.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ravager+Set"
+    },
+    {
+      "name": "Raw Mangler Set",
+      "description": "Set pieces can randomly drop from theRaw Manglerenemy.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Raw+Mangler+Set"
+    },
+    {
+      "name": "Ruiner Set",
+      "description": "Set pieces can randomly drop from theRuinerenemy.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ruiner+Set"
+    },
+    {
+      "name": "Sacred Resonance Set",
+      "description": "Set pieces can randomly drop from theReceiver of Sacred Resonanceenemy.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sacred+Resonance+Set"
+    },
+    {
+      "name": "Scourged Sister Set",
+      "description": "Set pieces can randomly drop from theScourged Sisterenemy.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Scourged+Sister+Set"
+    },
+    {
+      "name": "Shuja Strider Set",
+      "description": "Forsaken Fen: Set pieces can randomly drop from theShuja Striderenemy.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Shuja+Strider+Set"
+    },
+    {
+      "name": "Shuja Warrior Set",
+      "description": "Set pieces can randomly drop from theShuja Warriorenemy.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Shuja+Warrior+Set"
+    },
+    {
+      "name": "Sin-Piercer Set",
+      "description": "Set pieces can randomly drop from theSin-Piercerenemy.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sin-Piercer+Set"
+    },
+    {
+      "name": "Skinstealer Set",
+      "description": "Set pieces can randomly drop from theSkinstealerenemy.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Skinstealer+Set"
+    },
+    {
+      "name": "Stillness Set",
+      "description": "Drops fromBringer of Stillness",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Stillness+Set"
+    },
+    {
+      "name": "The Iron Wayfarer's Set",
+      "description": "This set drops fromThe Iron Wayfarerif you use theWithered Rune of Adyron him, killing theNPC.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Iron+Wayfarer's+Set"
+    },
+    {
+      "name": "Thorned Penitent Set",
+      "description": "Pilgrim's Perch",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Thorned+Penitent+Set"
+    },
+    {
+      "name": "Tortured Prisoner's Set",
+      "description": "Skyrest Bridge: Hand theSearing Accusationto theTortured Prisoner. Rest at a vestige and when you return to her location, you will find the bars melted, as well as theTortured Prisoner's Head Cage.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Tortured+Prisoner's+Set"
+    },
+    {
+      "name": "Udirangr Warwolf Set",
+      "description": "Starting equipment for theUdirangr Warwolfclass.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Udirangr+Warwolf+Set"
+    },
+    {
+      "name": "Vanguard Set",
+      "description": "Can be purchased fromExacter DunmireinSkyrest Bridge. Requires theVanguard Barros' Rosaryto be given toExacter Dunmireto expand the merchant's inventory and for this item to appear in the shop.",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Vanguard+Set"
+    }
+  ],
+  "achievements": []
+}
