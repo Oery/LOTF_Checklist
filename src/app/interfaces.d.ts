@@ -61,6 +61,7 @@ type CompletedGoals = {
   weapons: string[];
   armors: string[];
   bosses: string[];
+  gestures: string[];
 };
 
 export {

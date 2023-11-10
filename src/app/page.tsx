@@ -24,6 +24,7 @@ function App(): JSX.Element {
     weapons: [],
     armors: [],
     bosses: [],
+    gestures: [],
   });
 
   useEffect(() => {
