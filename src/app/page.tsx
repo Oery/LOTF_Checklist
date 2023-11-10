@@ -6,7 +6,7 @@ import data from "./data.json";
 
 function App(): JSX.Element {
   const [activeTab, setActiveTab] = useState<keyof typeof data>("bosses");
-  const [showCompleted, setShowCompleted] = useState(true);
+  const [showCompleted, setShowCompleted] = useState(false);
 
   const [searchTerm, setSearchTerm] = useState("");
 
@@ -145,7 +145,7 @@ function App(): JSX.Element {
       <button onClick={() => setActiveTab("bosses")}>Bosses</button>
       <button onClick={() => setActiveTab("weapons")}>Weapons</button>
       <button onClick={() => setActiveTab("armors")}>Armors</button>
-      <button onClick={() => setActiveTab("gestures")}>Armors</button>
+      <button onClick={() => setActiveTab("gestures")}>Gestures</button>
       {renderTab(activeTab)}
     </div>
   );
