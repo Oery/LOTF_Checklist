@@ -141,10 +141,11 @@ function App(): JSX.Element {
   return (
     <div>
       <h1>Game 100% Checklist</h1>
-      <button onClick={() => setActiveTab("achievements")}>Achievements</button>
+      {/* <button onClick={() => setActiveTab("achievements")}>Achievements</button> */}
       <button onClick={() => setActiveTab("bosses")}>Bosses</button>
       <button onClick={() => setActiveTab("weapons")}>Weapons</button>
       <button onClick={() => setActiveTab("armors")}>Armors</button>
+      <button onClick={() => setActiveTab("gestures")}>Armors</button>
       {renderTab(activeTab)}
     </div>
   );
