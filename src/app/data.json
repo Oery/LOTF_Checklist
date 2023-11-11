@@ -1877,5 +1877,434 @@
       "wiki_link": "#"
     }
   ],
+  "rings": [
+    {
+      "name": "Adyr's Mark Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Adyr's+Mark+Ring"
+    },
+    {
+      "name": "Adyrqamar Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Adyrqamar+Ring"
+    },
+    {
+      "name": "Anchorite's Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Anchorite's+Ring"
+    },
+    {
+      "name": "Andreas of Ebb's Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Andreas+of+Ebb's+Ring"
+    },
+    {
+      "name": "Barrage Root",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Barrage+Root"
+    },
+    {
+      "name": "Berinon's Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Berinon's+Ring"
+    },
+    {
+      "name": "Blackfeather Ranger Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Blackfeather+Ranger+Ring"
+    },
+    {
+      "name": "Bloodbane Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bloodbane+Ring"
+    },
+    {
+      "name": "Bountiful Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bountiful+Ring"
+    },
+    {
+      "name": "Braided Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Braided+Ring"
+    },
+    {
+      "name": "Bramble Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bramble+Ring"
+    },
+    {
+      "name": "Brawn Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Brawn+Ring"
+    },
+    {
+      "name": "Charred Root",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Charred+Root"
+    },
+    {
+      "name": "Cleric's Benediction",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Cleric's+Benediction"
+    },
+    {
+      "name": "Crossbowman's Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Crossbowman's+Ring"
+    },
+    {
+      "name": "Cursewyrm Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Cursewyrm+Ring"
+    },
+    {
+      "name": "Dark Crusader's Convalescence",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Dark+Crusader's+Convalescence"
+    },
+    {
+      "name": "Defaced Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Defaced+Ring"
+    },
+    {
+      "name": "Defiance Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Defiance+Ring"
+    },
+    {
+      "name": "Dunmire's Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Dunmire's+Ring"
+    },
+    {
+      "name": "Envenomed Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Envenomed+Ring"
+    },
+    {
+      "name": "Executioner's Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Executioner's+Ring"
+    },
+    {
+      "name": "Glacier Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Glacier+Ring"
+    },
+    {
+      "name": "Grayson's Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Grayson's+Ring"
+    },
+    {
+      "name": "Grievous Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Grievous+Ring"
+    },
+    {
+      "name": "Holy Blood Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Holy+Blood+Ring"
+    },
+    {
+      "name": "Impious Nohuta's Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Impious+Nohuta's+Ring"
+    },
+    {
+      "name": "Lucent Sword Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lucent+Sword+Ring"
+    },
+    {
+      "name": "Magma Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Magma+Ring"
+    },
+    {
+      "name": "Manastone Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Manastone+Ring"
+    },
+    {
+      "name": "Melchior's Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Melchior's+Ring"
+    },
+    {
+      "name": "Mineowner's Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Mineowner's+Ring"
+    },
+    {
+      "name": "Moth Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Moth+Ring"
+    },
+    {
+      "name": "Mother's Watch",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Mother's+Watch"
+    },
+    {
+      "name": "Nimble Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Nimble+Ring"
+    },
+    {
+      "name": "Orian Sorcerer's Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Orian+Sorcerer's+Ring"
+    },
+    {
+      "name": "Panoptic Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Panoptic+Ring"
+    },
+    {
+      "name": "Poacher's Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Poacher's+Ring"
+    },
+    {
+      "name": "Puissance Root",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Puissance+Root"
+    },
+    {
+      "name": "Queen Sophesia's Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Queen+Sophesia's+Ring"
+    },
+    {
+      "name": "Queen Verena II's Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Queen+Verena+II's+Ring"
+    },
+    {
+      "name": "Ring of Bones",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ring+of+Bones"
+    },
+    {
+      "name": "Ring of Brilliant Protection",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ring+of+Brilliant+Protection"
+    },
+    {
+      "name": "Ring of Duty",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ring+of+Duty"
+    },
+    {
+      "name": "Ring of Eternal Faith",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ring+of+Eternal+Faith"
+    },
+    {
+      "name": "Ring of Gnawing",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ring+of+Gnawing"
+    },
+    {
+      "name": "Ring of Infernal Devotion",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ring+of+Infernal+Devotion"
+    },
+    {
+      "name": "Ring of Night's Fire",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ring+of+Night's+Fire"
+    },
+    {
+      "name": "Ring of Nourishment",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ring+of+Nourishment"
+    },
+    {
+      "name": "Ring of Radiant Preeminence",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ring+of+Radiant+Preeminence"
+    },
+    {
+      "name": "Ring of Sanguine Might",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ring+of+Sanguine+Might"
+    },
+    {
+      "name": "Ring of Shelter",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ring+of+Shelter"
+    },
+    {
+      "name": "Ring of the First of the Beasts",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ring+of+the+First+of+the+Beasts"
+    },
+    {
+      "name": "Royal Council Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Royal+Council+Ring"
+    },
+    {
+      "name": "Saint Salonor's Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Saint+Salonor's+Ring"
+    },
+    {
+      "name": "Slinger's Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Slinger's+Ring"
+    },
+    {
+      "name": "Smouldering Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Smouldering+Ring"
+    },
+    {
+      "name": "Sovereign Protector's Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sovereign+Protector's+Ring"
+    },
+    {
+      "name": "Unblinking Root",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Unblinking+Root"
+    },
+    {
+      "name": "Verdure Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Verdure+Ring"
+    },
+    {
+      "name": "Vessel Root",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Vessel+Root"
+    },
+    {
+      "name": "Wildfire Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Wildfire+Ring"
+    },
+    {
+      "name": "Yorke's Ring",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Yorke's+Ring"
+    }
+  ],
+  "pendants": [
+    {
+      "name": "Cavalry Pendant",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Cavalry+Pendant"
+    },
+    {
+      "name": "Empyrean Pendant",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Empyrean+Pendant"
+    },
+    {
+      "name": "Faceless Carving",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Faceless+Carving"
+    },
+    {
+      "name": "Hallowed Triptych",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hallowed+Triptych"
+    },
+    {
+      "name": "Hysteria Pendant",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hysteria+Pendant"
+    },
+    {
+      "name": "Inner Serpent Pendant",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Inner+Serpent+Pendant"
+    },
+    {
+      "name": "Miner's Pendant",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Miner's+Pendant"
+    },
+    {
+      "name": "Paladin's Pendant",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Paladin's+Pendant"
+    },
+    {
+      "name": "Pendant of Atrophy",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pendant+of+Atrophy"
+    },
+    {
+      "name": "Pendant of Burden",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pendant+of+Burden"
+    },
+    {
+      "name": "Pendant of Induration",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pendant+of+Induration"
+    },
+    {
+      "name": "Pendant of Infernal Oblation",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pendant+of+Infernal+Oblation"
+    },
+    {
+      "name": "Pendant of Parting",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pendant+of+Parting"
+    },
+    {
+      "name": "Pendant of the Blood Sun",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pendant+of+the+Blood+Sun"
+    },
+    {
+      "name": "Princess' Sting",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Princess'+Sting"
+    },
+    {
+      "name": "Relic of Perpetuation",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Relic+of+Perpetuation"
+    },
+    {
+      "name": "Rhogar's Delight",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rhogar's+Delight"
+    },
+    {
+      "name": "Scornful Effigy",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Scornful+Effigy"
+    },
+    {
+      "name": "Shrunken Skull Pendant",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Shrunken+Skull+Pendant"
+    },
+    {
+      "name": "Shuja Harmony Hoop",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Shuja+Harmony+Hoop"
+    },
+    {
+      "name": "Unbridled Focus",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Unbridled+Focus"
+    },
+    {
+      "name": "Warrior's Claw",
+      "description": "",
+      "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Warrior's+Claw"
+    }
+  ],
   "achievements": []
 }

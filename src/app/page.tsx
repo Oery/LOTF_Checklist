@@ -25,13 +25,28 @@ function App(): JSX.Element {
     armors: [],
     bosses: [],
     gestures: [],
+    pendants: [],
+    rings: [],
   });
 
   useEffect(() => {
     const savedGoals = localStorage.getItem("completedGoals");
 
     if (savedGoals) {
-      setCompletedGoals(JSON.parse(savedGoals));
+      let savedData = JSON.parse(savedGoals);
+
+      savedData = {
+        achievements: savedData.achievements || [],
+        weapons: savedData.weapons || [],
+        armors: savedData.armors || [],
+        bosses: savedData.bosses || [],
+        gestures: savedData.gestures || [],
+        pendants: savedData.pendants || [],
+        rings: savedData.rings || [],
+        ...savedData,
+      };
+
+      setCompletedGoals(savedData);
     }
   }, []);
 
@@ -146,6 +161,8 @@ function App(): JSX.Element {
       <button onClick={() => setActiveTab("weapons")}>Weapons</button>
       <button onClick={() => setActiveTab("armors")}>Armors</button>
       <button onClick={() => setActiveTab("gestures")}>Gestures</button>
+      <button onClick={() => setActiveTab("pendants")}>Pendants</button>
+      <button onClick={() => setActiveTab("rings")}>Rings</button>
       {renderTab(activeTab)}
     </div>
   );
