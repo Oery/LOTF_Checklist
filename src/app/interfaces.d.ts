@@ -64,6 +64,7 @@ type CompletedGoals = {
   gestures: string[];
   rings: string[];
   pendants: string[];
+  umbral_eyes: string[];
 };
 
 export {

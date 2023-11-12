@@ -27,6 +27,7 @@ function App(): JSX.Element {
     gestures: [],
     pendants: [],
     rings: [],
+    umbral_eyes: [],
   });
 
   useEffect(() => {
@@ -163,6 +164,7 @@ function App(): JSX.Element {
       <button onClick={() => setActiveTab("gestures")}>Gestures</button>
       <button onClick={() => setActiveTab("pendants")}>Pendants</button>
       <button onClick={() => setActiveTab("rings")}>Rings</button>
+      <button onClick={() => setActiveTab("umbral_eyes")}>Rings</button>
       {renderTab(activeTab)}
     </div>
   );
