@@ -44,6 +44,7 @@ function App(): JSX.Element {
         gestures: savedData.gestures || [],
         pendants: savedData.pendants || [],
         rings: savedData.rings || [],
+        umbral_eyes: savedData.umbral_eyes || [],
         ...savedData,
       };
 
@@ -164,7 +165,7 @@ function App(): JSX.Element {
       <button onClick={() => setActiveTab("gestures")}>Gestures</button>
       <button onClick={() => setActiveTab("pendants")}>Pendants</button>
       <button onClick={() => setActiveTab("rings")}>Rings</button>
-      <button onClick={() => setActiveTab("umbral_eyes")}>Rings</button>
+      <button onClick={() => setActiveTab("umbral_eyes")}>Umbral Eyes</button>
       {renderTab(activeTab)}
     </div>
   );
