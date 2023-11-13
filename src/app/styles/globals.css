@@ -1,0 +1,123 @@
+*::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1170px;
+    color: rgb(200, 195, 188);
+    background-color: rgb(24, 26, 27);
+
+    font-size: 14px;
+    line-height: 1.42;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    margin-block: 0;
+    margin-inline: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    color: #e8e6e3;
+    text-decoration: none;
+}
+
+.checkbox {
+    margin-top: 14px;
+    margin-bottom: 14px;
+}
+
+.checkbox input {
+    position: relative;
+    left: -5px;
+}
+
+.in-progress {
+    color: rgb(255, 158, 61);
+    border-color: rgb(255, 158, 61);
+}
+
+.done {
+    color: rgb(97, 255, 150) !important;
+    border-color: rgb(97, 255, 150) !important;
+}
+
+.in-progress,
+.done {
+    color: #c60;
+    border: 1px solid;
+    border-top-color: currentcolor;
+    border-right-color: currentcolor;
+    border-bottom-color: currentcolor;
+    border-left-color: currentcolor;
+    border-radius: 3px;
+    padding: 0.1em 0.4em;
+    font-weight: normal;
+    margin-left: 10px;
+    vertical-align: middle;
+    font-size: 0.9em;
+}
+
+p {
+    margin-left: 20px;
+    display: inline;
+    line-height: 24px;
+    letter-spacing: 0.8px;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    border: solid 1px rgb(39, 38, 36);
+    border-radius: 8px;
+    background-color: rgb(28, 30, 31);
+}
+
+.hide-button {
+    cursor: pointer;
+    padding: 12px;
+    color: rgb(200, 195, 188);
+    border: solid 1px rgb(39, 38, 36);
+    border-radius: 8px;
+    background-color: rgb(28, 30, 31);
+}
+
+nav button:first-of-type {
+    padding-left: 20px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+}
+
+nav button {
+    padding-left: 10px;
+    padding-right: 10px;
+    cursor: pointer;
+    color: rgb(200, 195, 188);
+    height: 50px;
+    background: none;
+    border: none;
+}
+
+nav button:hover {
+    color: white;
+    background-color: rgb(73, 79, 82);
+}
+
+input[type="text"] {
+    background-color: rgb(20, 21, 22);
+    border: none;
+    padding: 10px;
+    width: 400px;
+    border-radius: 8px;
+    color: rgb(200, 195, 188);
+}

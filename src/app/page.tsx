@@ -1,174 +1,52 @@
 "use client";
 
-import React, { useState, useEffect } from "react";
-import { CompletedGoals } from "./interfaces";
+import { useEffect, useState } from "react";
 import data from "./data.json";
+import TabButton from "./components/TabButton";
+import Tab from "./components/Tab";
+import { CategoryName } from "./types/interfaces";
 
 function App(): JSX.Element {
-  const [activeTab, setActiveTab] = useState<keyof typeof data>("bosses");
-  const [showCompleted, setShowCompleted] = useState(false);
+    const [activeTab, setActiveTab] = useState<CategoryName>("bosses");
+    const [completedGoals, setCompletedGoals] = useState<string[]>([]);
 
-  const [searchTerm, setSearchTerm] = useState("");
+    // Load Completed Goals
+    useEffect(() => {
+        const savedGoals = localStorage.getItem("progress");
+        if (savedGoals) {
+            let savedData = JSON.parse(savedGoals);
+            setCompletedGoals(savedData);
+        }
+    }, []);
 
-  // Handler for search input changes
-  const handleSearchChange = (event: React.ChangeEvent<HTMLInputElement>) => {
-    setSearchTerm(event.target.value);
-  };
-
-  function toggleShowCompleted() {
-    setShowCompleted((prevShowCompleted) => !prevShowCompleted);
-  }
-
-  const [completedGoals, setCompletedGoals] = useState<CompletedGoals>({
-    achievements: [],
-    weapons: [],
-    armors: [],
-    bosses: [],
-    gestures: [],
-    pendants: [],
-    rings: [],
-    umbral_eyes: [],
-  });
-
-  useEffect(() => {
-    const savedGoals = localStorage.getItem("completedGoals");
-
-    if (savedGoals) {
-      let savedData = JSON.parse(savedGoals);
-
-      savedData = {
-        achievements: savedData.achievements || [],
-        weapons: savedData.weapons || [],
-        armors: savedData.armors || [],
-        bosses: savedData.bosses || [],
-        gestures: savedData.gestures || [],
-        pendants: savedData.pendants || [],
-        rings: savedData.rings || [],
-        umbral_eyes: savedData.umbral_eyes || [],
-        ...savedData,
-      };
-
-      setCompletedGoals(savedData);
-    }
-  }, []);
-
-  useEffect(() => {
-    localStorage.setItem("completedGoals", JSON.stringify(completedGoals));
-  }, [completedGoals]);
-
-  const handleUpdateProgress = (
-    tabName: keyof CompletedGoals,
-    itemName: string,
-    isCompleted: boolean
-  ) => {
-    setCompletedGoals((prevGoals) => {
-      const updatedGoals = { ...prevGoals };
-      if (isCompleted) {
-        updatedGoals[tabName] = [...prevGoals[tabName], itemName];
-      } else {
-        updatedGoals[tabName] = prevGoals[tabName].filter(
-          (name) => name !== itemName
-        );
-      }
-      localStorage.setItem("completedGoals", JSON.stringify(updatedGoals));
-      return updatedGoals;
-    });
-  };
-
-  const renderTab = (tabName: keyof CompletedGoals) => {
-    const tabItems = data[tabName];
-    const completedItems = completedGoals[tabName];
-    const totalItems = tabItems.length;
-    const completedCount = tabItems.filter((item) =>
-      completedItems.includes(item.name)
-    ).length;
-
-    const filteredItems = searchTerm
-      ? tabItems.filter(
-          (item) =>
-            item.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-            item.description.toLowerCase().includes(searchTerm.toLowerCase())
-        )
-      : tabItems;
+    useEffect(() => {
+        if (completedGoals.length > 0) {
+            localStorage.setItem("progress", JSON.stringify(completedGoals));
+        }
+    }, [completedGoals]);
 
     return (
-      <div>
-        <input
-          type="text"
-          placeholder="Search..."
-          value={searchTerm}
-          onChange={handleSearchChange}
-        />
-        <h2>
-          {tabName.charAt(0).toUpperCase() + tabName.slice(1)}
-          {"  "}
-          <span
-            className={completedCount == totalItems ? "done" : "in-progress"}
-          >
-            {completedCount == totalItems
-              ? "DONE"
-              : `${completedCount}/${totalItems}`}
-          </span>
-          <button onClick={toggleShowCompleted}>
-            {showCompleted ? "Hide Completed" : "Show Completed"}
-          </button>
-        </h2>
-        <ul>
-          {filteredItems.map((item) => {
-            const isCompleted = completedItems.includes(item.name);
+        <div>
+            <nav>
+                {Object.keys(data).map((key) => (
+                    <TabButton
+                        key={key}
+                        tabName={key as CategoryName}
+                        setTab={setActiveTab}
+                    />
+                ))}
+            </nav>
 
-            if (!showCompleted && isCompleted) {
-              return null;
-            }
+            <h1>Lords Of The Fallen Checklist</h1>
 
-            return (
-              <li key={item.name} className="checkbox">
-                <label>
-                  <input
-                    type="checkbox"
-                    checked={isCompleted}
-                    onChange={(e) =>
-                      handleUpdateProgress(tabName, item.name, e.target.checked)
-                    }
-                  />
-                  <span
-                    onClick={() =>
-                      handleUpdateProgress(tabName, item.name, !isCompleted)
-                    }
-                  >
-                    <a
-                      href={item.wiki_link}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      onClick={(e) => e.stopPropagation()}
-                    >
-                      {item.name}
-                    </a>
-                    <p>{item.description}</p>
-                  </span>
-                </label>
-              </li>
-            );
-          })}
-        </ul>
-      </div>
+            <Tab
+                name={activeTab}
+                items={data[activeTab]}
+                completedGoals={completedGoals}
+                setCompletedGoals={setCompletedGoals}
+            />
+        </div>
     );
-  };
-
-  return (
-    <div>
-      <h1>Game 100% Checklist</h1>
-      {/* <button onClick={() => setActiveTab("achievements")}>Achievements</button> */}
-      <button onClick={() => setActiveTab("bosses")}>Bosses</button>
-      <button onClick={() => setActiveTab("weapons")}>Weapons</button>
-      <button onClick={() => setActiveTab("armors")}>Armors</button>
-      <button onClick={() => setActiveTab("gestures")}>Gestures</button>
-      <button onClick={() => setActiveTab("pendants")}>Pendants</button>
-      <button onClick={() => setActiveTab("rings")}>Rings</button>
-      <button onClick={() => setActiveTab("umbral_eyes")}>Umbral Eyes</button>
-      {renderTab(activeTab)}
-    </div>
-  );
 }
 
 export default App;
