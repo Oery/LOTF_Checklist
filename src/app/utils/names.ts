@@ -30,6 +30,7 @@ const SUBCATEGORIES_NAMES = {
     umbral: "Umbral Spells",
     radiant: "Radiant Spells",
     inferno: "Inferno Spells",
+    shields: "Shields",
 };
 
 export { NAMES, SUBCATEGORIES_NAMES };

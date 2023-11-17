@@ -1405,6 +1405,168 @@
                 "description": "",
                 "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Wither+Bolts"
             }
+        ],
+        "shields": [
+            {
+                "name": "Blackfeather Ranger Shield",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Blackfeather+Ranger+Shield"
+            },
+            {
+                "name": "Boar's Head Shield",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Boar's+Head+Shield"
+            },
+            {
+                "name": "Envenomed Shield",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Envenomed+Shield"
+            },
+            {
+                "name": "Lightreaper's Shield",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lightreaper's+Shield"
+            },
+            {
+                "name": "Mournstead Infantry Shield",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Mournstead+Infantry+Shield"
+            },
+            {
+                "name": "Orian Preacher Shield",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Orian+Preacher+Shield"
+            },
+            {
+                "name": "Pureblade Shield",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pureblade+Shield"
+            },
+            {
+                "name": "Sanctified Huntress Shield",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sanctified+Huntress+Shield"
+            },
+            {
+                "name": "Shield of Thunder",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Shield+of+Thunder"
+            },
+            {
+                "name": "Skinstealer Shield",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Skinstealer+Shield"
+            },
+            {
+                "name": "Crimson Rector Shield",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Crimson+Rector+Shield"
+            },
+            {
+                "name": "Hallowed Knight Shield",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hallowed+Knight+Shield"
+            },
+            {
+                "name": "Lucent Sword Shield",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lucent+Sword+Shield"
+            },
+            {
+                "name": "Pale Eye Shield",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pale+Eye+Shield"
+            },
+            {
+                "name": "Partisan Shield",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Partisan+Shield"
+            },
+            {
+                "name": "Plain Shield",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Plain+Shield"
+            },
+            {
+                "name": "Shield of the First of the Beasts",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Shield+of+the+First+of+the+Beasts"
+            },
+            {
+                "name": "Trinity Shield",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Trinity+Shield"
+            },
+            {
+                "name": "Shield of the Moonlit Emissary",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Shield+of+the+Moonlit+Emissary"
+            },
+            {
+                "name": "Stomund's Shield",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Stomund's+Shield"
+            },
+            {
+                "name": "Angel's Aegis",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Angel's+Aegis"
+            },
+            {
+                "name": "Church of Orian Radiance Greatshield",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Church+of+Orian+Radiance+Greatshield"
+            },
+            {
+                "name": "Fulvirano Shield",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fulvirano+Shield"
+            },
+            {
+                "name": "Garish Display",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Garish+Display"
+            },
+            {
+                "name": "Heavy Memento",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Heavy+Memento"
+            },
+            {
+                "name": "Miner's Desperation",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Miner's+Desperation"
+            },
+            {
+                "name": "Ravager Greatshield",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ravager+Greatshield"
+            },
+            {
+                "name": "Ruiner Shield",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ruiner+Shield"
+            },
+            {
+                "name": "Shield of the Hushed Saint",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Shield+of+the+Hushed+Saint"
+            },
+            {
+                "name": "Shield of Whispers",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Shield+of+Whispers"
+            },
+            {
+                "name": "Tancred's Shield",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Tancred's+Shield"
+            },
+            {
+                "name": "Shield of Piercing Light",
+                "description": "",
+                "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Shield+of+Piercing+Light"
+            }
         ]
     },
     "armors": {
