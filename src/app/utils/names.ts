@@ -5,7 +5,7 @@ const NAMES = {
     gestures: "Gestures",
     rings: "Rings",
     pendants: "Pendants",
-    umbral_eyes: "Umbral Eyes",
+    umbralEyes: "Umbral Eyes",
     achievements: "Achievements",
     spells: "Spells",
 };
