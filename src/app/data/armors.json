@@ -1,0 +1,1710 @@
+{
+    "helmets": [
+        {
+            "name": "Abbess Mitre",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Abbess+Mitre"
+        },
+        {
+            "name": "Abiding Defender Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Abiding+Defender+Helm"
+        },
+        {
+            "name": "Abiding Defender Masked Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Abiding+Defender+Masked+Helm"
+        },
+        {
+            "name": "Angel of the Void Mask",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Angel+of+the+Void+Mask"
+        },
+        {
+            "name": "Antique Hallowed Sentinel Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Antique+Hallowed+Sentinel+Helm"
+        },
+        {
+            "name": "Ardent Penitent Head Cage",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ardent+Penitent+Head+Cage"
+        },
+        {
+            "name": "Avowed Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Avowed+Helm"
+        },
+        {
+            "name": "Blackfeather Ranger Hat",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Blackfeather+Ranger+Hat"
+        },
+        {
+            "name": "Blessed Carrion Knight Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Blessed+Carrion+Knight+Helm"
+        },
+        {
+            "name": "Byron's Cap",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Byron's+Cap"
+        },
+        {
+            "name": "Calrath Guardsman Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Calrath+Guardsman+Helm"
+        },
+        {
+            "name": "Carrion Knight Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Carrion+Knight+Helm"
+        },
+        {
+            "name": "Condemned Head Cage",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Condemned+Head+Cage"
+        },
+        {
+            "name": "Conflagrant Seer Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Conflagrant+Seer+Helm"
+        },
+        {
+            "name": "Corrupted Cleric's Crown",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Corrupted+Cleric's+Crown"
+        },
+        {
+            "name": "Corrupted Penitent Mask",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Corrupted+Penitent+Mask"
+        },
+        {
+            "name": "Corrupted Pilgrim Hood",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Corrupted+Pilgrim+Hood"
+        },
+        {
+            "name": "Crimson Rector Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Crimson+Rector+Helm"
+        },
+        {
+            "name": "Crown of Flowers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Crown+of+Flowers"
+        },
+        {
+            "name": "Crown of Nails",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Crown+of+Nails"
+        },
+        {
+            "name": "Cursed Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Cursed+Helm"
+        },
+        {
+            "name": "Damarose's Mask",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Damarose's+Mask"
+        },
+        {
+            "name": "Descrier Guide Mask",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Descrier+Guide+Mask"
+        },
+        {
+            "name": "Despair's Countenance",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Despair's+Countenance"
+        },
+        {
+            "name": "Disgorged Viscera",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Disgorged+Viscera"
+        },
+        {
+            "name": "Drustan's Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Drustan's+Helm"
+        },
+        {
+            "name": "Enslaved Miner Collar",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enslaved+Miner+Collar"
+        },
+        {
+            "name": "Exacter Hat",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Exacter+Hat"
+        },
+        {
+            "name": "Exiled Stalker Headscarf",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Exiled+Stalker+Headscarf"
+        },
+        {
+            "name": "Face of Elianne",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Face+of+Elianne"
+        },
+        {
+            "name": "Failed Pilgrim's Hood",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Failed+Pilgrim's+Hood"
+        },
+        {
+            "name": "Faithless Mask",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Faithless+Mask"
+        },
+        {
+            "name": "Fitzroy's Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fitzroy's+Helm"
+        },
+        {
+            "name": "Fungal Bowman Collar",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fungal+Bowman+Collar"
+        },
+        {
+            "name": "Grace of Adyr Mask",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Grace+of+Adyr+Mask"
+        },
+        {
+            "name": "Grace of Adyr Scalp",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Grace+of+Adyr+Scalp"
+        },
+        {
+            "name": "Hallowed Knight Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hallowed+Knight+Helm"
+        },
+        {
+            "name": "Harrower Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Harrower+Helm"
+        },
+        {
+            "name": "Holy Bulwark Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Holy+Bulwark+Helm"
+        },
+        {
+            "name": "Infernal Enchantress Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Infernal+Enchantress+Helm"
+        },
+        {
+            "name": "J'deyl Skull Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/J'deyl+Skull+Helm"
+        },
+        {
+            "name": "Judge Cleric's Crown",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Judge+Cleric's+Crown"
+        },
+        {
+            "name": "Kinrangr Guardian Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kinrangr+Guardian+Helm"
+        },
+        {
+            "name": "Kinrangr Hunter Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kinrangr+Hunter+Helm"
+        },
+        {
+            "name": "Knight of Adyr Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Knight+of+Adyr+Helm"
+        },
+        {
+            "name": "Lightreaper's Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lightreaper's+Helm"
+        },
+        {
+            "name": "Lord Mask",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lord+Mask"
+        },
+        {
+            "name": "Marksman Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Marksman+Helm"
+        },
+        {
+            "name": "Mask of the Drowned",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Mask+of+the+Drowned"
+        },
+        {
+            "name": "Mask of Wrath",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Mask+of+Wrath"
+        },
+        {
+            "name": "Melted Crown",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Melted+Crown"
+        },
+        {
+            "name": "Mournstead Infantry Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Mournstead+Infantry+Helm"
+        },
+        {
+            "name": "Neophyte Hood",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Neophyte+Hood"
+        },
+        {
+            "name": "Noblewoman Headwear",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Noblewoman+Headwear"
+        },
+        {
+            "name": "Orian Preacher Hat",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Orian+Preacher+Hat"
+        },
+        {
+            "name": "Overseer Mask",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Overseer+Mask"
+        },
+        {
+            "name": "Paladin Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Paladin+Helm"
+        },
+        {
+            "name": "Partisan Hood",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Partisan+Hood"
+        },
+        {
+            "name": "Pieta's Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pieta's+Helm"
+        },
+        {
+            "name": "Pilgrim Hood",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pilgrim+Hood"
+        },
+        {
+            "name": "Prole Hat",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Prole+Hat"
+        },
+        {
+            "name": "Pureblade Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pureblade+Helm"
+        },
+        {
+            "name": "Purger Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Purger+Helm"
+        },
+        {
+            "name": "Putrid Child Mask",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Putrid+Child+Mask"
+        },
+        {
+            "name": "Pyric Cultist Hood",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pyric+Cultist+Hood"
+        },
+        {
+            "name": "Radiant Purifier Hat",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Radiant+Purifier+Hat"
+        },
+        {
+            "name": "Rapturous Huntress Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rapturous+Huntress+Helm"
+        },
+        {
+            "name": "Ravager Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ravager+Helm"
+        },
+        {
+            "name": "Root Clump",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Root+Clump"
+        },
+        {
+            "name": "Ruiner Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ruiner+Helm"
+        },
+        {
+            "name": "Sacred Resonance Bell",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sacred+Resonance+Bell"
+        },
+        {
+            "name": "Scourged Sister Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Scourged+Sister+Helm"
+        },
+        {
+            "name": "Shuja Strider Mask",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Shuja+Strider+Mask"
+        },
+        {
+            "name": "Shuja Warrior Mask",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Shuja+Warrior+Mask"
+        },
+        {
+            "name": "Sin-Piercer Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sin-Piercer+Helm"
+        },
+        {
+            "name": "Skinstealer Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Skinstealer+Helm"
+        },
+        {
+            "name": "Skull",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Skull"
+        },
+        {
+            "name": "Sovereign Protector Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sovereign+Protector+Helm"
+        },
+        {
+            "name": "Stillness Hood",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Stillness+Hood"
+        },
+        {
+            "name": "Stomund's Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Stomund's+Helm"
+        },
+        {
+            "name": "Tancred's Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Tancred's+Helm"
+        },
+        {
+            "name": "The Iron Wayfarer's Hood",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Iron+Wayfarer's+Hood"
+        },
+        {
+            "name": "Thorned Penitent Mask",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Thorned+Penitent+Mask"
+        },
+        {
+            "name": "Tortured Prisoner's Head Cage",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Tortured+Prisoner's+Head+Cage"
+        },
+        {
+            "name": "Trapper Cap",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Trapper+Cap"
+        },
+        {
+            "name": "Udirangr Warwolf Hood",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Udirangr+Warwolf+Hood"
+        },
+        {
+            "name": "Vanguard Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Vanguard+Helm"
+        },
+        {
+            "name": "Weeping Abbess Mitre",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Weeping+Abbess+Mitre"
+        },
+        {
+            "name": "Pumpskin Mask",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pumpskin+Mask"
+        }
+    ],
+    "chestplates": [
+        {
+            "name": "Abbess Garb",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Abbess+Garb"
+        },
+        {
+            "name": "Abiding Defender Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Abiding+Defender+Armour"
+        },
+        {
+            "name": "Accursed Wretch Cloak",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Accursed+Wretch+Cloak"
+        },
+        {
+            "name": "Andreas of Ebb's Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Andreas+of+Ebb's+Armour"
+        },
+        {
+            "name": "Angel of the Void Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Angel+of+the+Void+Armour"
+        },
+        {
+            "name": "Antique Hallowed Sentinel Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Antique+Hallowed+Sentinel+Armour"
+        },
+        {
+            "name": "Ardent Penitent Torso Chains",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ardent+Penitent+Torso+Chains"
+        },
+        {
+            "name": "Avowed Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Avowed+Armour"
+        },
+        {
+            "name": "Blackfeather Ranger Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Blackfeather+Ranger+Armour"
+        },
+        {
+            "name": "Blessed Carrion Knight Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Blessed+Carrion+Knight+Armour"
+        },
+        {
+            "name": "Byron's Garb",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Byron's+Garb"
+        },
+        {
+            "name": "Calrath Guardsman Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Calrath+Guardsman+Armour"
+        },
+        {
+            "name": "Carrion Knight Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Carrion+Knight+Armour"
+        },
+        {
+            "name": "Condemned Garb",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Condemned+Garb"
+        },
+        {
+            "name": "Conflagrant Seer Robes",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Conflagrant+Seer+Robes"
+        },
+        {
+            "name": "Corrupted Cleric's Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Corrupted+Cleric's+Armour"
+        },
+        {
+            "name": "Corrupted Penitent Cape",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Corrupted+Penitent+Cape"
+        },
+        {
+            "name": "Corrupted Pilgrim Belled Cape",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Corrupted+Pilgrim+Belled+Cape"
+        },
+        {
+            "name": "Corrupted Pilgrim Cape",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Corrupted+Pilgrim+Cape"
+        },
+        {
+            "name": "Corrupted Pilgrim Testimony Cape",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Corrupted+Pilgrim+Testimony+Cape"
+        },
+        {
+            "name": "Crimson Rector Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Crimson+Rector+Armour"
+        },
+        {
+            "name": "Cursed Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Cursed+Armour"
+        },
+        {
+            "name": "Damarose's Garb",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Damarose's+Garb"
+        },
+        {
+            "name": "Descrier Guide Garb",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Descrier+Guide+Garb"
+        },
+        {
+            "name": "Despair's Cocoon",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Despair's+Cocoon"
+        },
+        {
+            "name": "Dress of the Drowned",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Dress+of+the+Drowned"
+        },
+        {
+            "name": "Drustan's Garb",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Drustan's+Garb"
+        },
+        {
+            "name": "Elianne the Starved's Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Elianne+the+Starved's+Armour"
+        },
+        {
+            "name": "Enslaved Miner Chain",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enslaved+Miner+Chain"
+        },
+        {
+            "name": "Exacter Robes",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Exacter+Robes"
+        },
+        {
+            "name": "Exiled Stalker Garb",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Exiled+Stalker+Garb"
+        },
+        {
+            "name": "Failed Pilgrim's Garb",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Failed+Pilgrim's+Garb"
+        },
+        {
+            "name": "Faithless Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Faithless+Armour"
+        },
+        {
+            "name": "Fetid Sacrifice Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fetid+Sacrifice+Armour"
+        },
+        {
+            "name": "Fitzroy's Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fitzroy's+Armour"
+        },
+        {
+            "name": "Grace of Adyr Loincloth",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Grace+of+Adyr+Loincloth"
+        },
+        {
+            "name": "Griefbound Dress",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Griefbound+Dress"
+        },
+        {
+            "name": "Hallowed Knight Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hallowed+Knight+Armour"
+        },
+        {
+            "name": "Harrower Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Harrower+Armour"
+        },
+        {
+            "name": "Holy Bulwark Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Holy+Bulwark+Armour"
+        },
+        {
+            "name": "Hushed Saint's Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hushed+Saint's+Armour"
+        },
+        {
+            "name": "Infernal Enchantress Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Infernal+Enchantress+Armour"
+        },
+        {
+            "name": "Iselle's Garb",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Iselle's+Garb"
+        },
+        {
+            "name": "J'deyl Bone Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/J'deyl+Bone+Armour"
+        },
+        {
+            "name": "Judge Cleric's Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Judge+Cleric's+Armour"
+        },
+        {
+            "name": "Kinrangr Guardian Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kinrangr+Guardian+Armour"
+        },
+        {
+            "name": "Kinrangr Hunter Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kinrangr+Hunter+Armour"
+        },
+        {
+            "name": "Knight of Adyr Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Knight+of+Adyr+Armour"
+        },
+        {
+            "name": "Kukajin's Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kukajin's+Armour"
+        },
+        {
+            "name": "Lightreaper's Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lightreaper's+Armour"
+        },
+        {
+            "name": "Lord Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lord+Armour"
+        },
+        {
+            "name": "Marksman Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Marksman+Armour"
+        },
+        {
+            "name": "Mournstead Infantry Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Mournstead+Infantry+Armour"
+        },
+        {
+            "name": "Neophyte Garb",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Neophyte+Garb"
+        },
+        {
+            "name": "Noblewoman Dress",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Noblewoman+Dress"
+        },
+        {
+            "name": "Orian Preacher Garb",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Orian+Preacher+Garb"
+        },
+        {
+            "name": "Overseer Garb",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Overseer+Garb"
+        },
+        {
+            "name": "Paladin Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Paladin+Armour"
+        },
+        {
+            "name": "Partisan Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Partisan+Armour"
+        },
+        {
+            "name": "Penitent Garb",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Penitent+Garb"
+        },
+        {
+            "name": "Pieta's Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pieta's+Armour"
+        },
+        {
+            "name": "Pilgrim Garb",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pilgrim+Garb"
+        },
+        {
+            "name": "Prole Garb",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Prole+Garb"
+        },
+        {
+            "name": "Proselyte Garb",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Proselyte+Garb"
+        },
+        {
+            "name": "Pureblade Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pureblade+Armour"
+        },
+        {
+            "name": "Purger Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Purger+Armour"
+        },
+        {
+            "name": "Putrid Child Robes",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Putrid+Child+Robes"
+        },
+        {
+            "name": "Pyric Cultist Garb",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pyric+Cultist+Garb"
+        },
+        {
+            "name": "Radiant Purifier Robes",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Radiant+Purifier+Robes"
+        },
+        {
+            "name": "Rapturous Huntress Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rapturous+Huntress+Armour"
+        },
+        {
+            "name": "Ravager Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ravager+Armour"
+        },
+        {
+            "name": "Raw Mangler Cape",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Raw+Mangler+Cape"
+        },
+        {
+            "name": "Ruiner Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ruiner+Armour"
+        },
+        {
+            "name": "Sacred Resonance Garb",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sacred+Resonance+Garb"
+        },
+        {
+            "name": "Scourged Sister Garb",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Scourged+Sister+Garb"
+        },
+        {
+            "name": "Shuja Strider Garb",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Shuja+Strider+Garb"
+        },
+        {
+            "name": "Sin-Piercer Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sin-Piercer+Armour"
+        },
+        {
+            "name": "Skinstealer Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Skinstealer+Armour"
+        },
+        {
+            "name": "Sovereign Protector Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sovereign+Protector+Armour"
+        },
+        {
+            "name": "Stillness Robes",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Stillness+Robes"
+        },
+        {
+            "name": "Stomund's Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Stomund's+Armour"
+        },
+        {
+            "name": "Tancred's Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Tancred's+Armour"
+        },
+        {
+            "name": "The Iron Wayfarer's Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Iron+Wayfarer's+Armour"
+        },
+        {
+            "name": "Torso Bones",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Torso+Bones"
+        },
+        {
+            "name": "Torso Fungus",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Torso+Fungus"
+        },
+        {
+            "name": "Tortured Prisoner's Dress",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Tortured+Prisoner's+Dress"
+        },
+        {
+            "name": "Trapper Garb",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Trapper+Garb"
+        },
+        {
+            "name": "Udirangr Warwolf Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Udirangr+Warwolf+Armour"
+        },
+        {
+            "name": "Vanguard Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Vanguard+Armour"
+        }
+    ],
+    "gauntlets": [
+        {
+            "name": "Abbess Wrappings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Abbess+Wrappings"
+        },
+        {
+            "name": "Abiding Defender Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Abiding+Defender+Gauntlets"
+        },
+        {
+            "name": "Andreas of Ebb's Sleeves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Andreas+of+Ebb's+Sleeves"
+        },
+        {
+            "name": "Angel of the Void Gloves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Angel+of+the+Void+Gloves"
+        },
+        {
+            "name": "Antique Hallowed Sentinel Sleeves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Antique+Hallowed+Sentinel+Sleeves"
+        },
+        {
+            "name": "Ardent Penitent Arm Chains",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ardent+Penitent+Arm+Chains"
+        },
+        {
+            "name": "Arm Bones",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Arm+Bones"
+        },
+        {
+            "name": "Arm Fungus",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Arm+Fungus"
+        },
+        {
+            "name": "Avowed Gloves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Avowed+Gloves"
+        },
+        {
+            "name": "Blackfeather Ranger Gloves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Blackfeather+Ranger+Gloves"
+        },
+        {
+            "name": "Byron's Wrappings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Byron's+Wrappings"
+        },
+        {
+            "name": "Calrath Guardsman Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Calrath+Guardsman+Gauntlets"
+        },
+        {
+            "name": "Carrion Knight Wrappings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Carrion+Knight+Wrappings"
+        },
+        {
+            "name": "Condemned Manacles",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Condemned+Manacles"
+        },
+        {
+            "name": "Conflagrant Seer Sleeves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Conflagrant+Seer+Sleeves"
+        },
+        {
+            "name": "Corrupted Cleric's Wrappings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Corrupted+Cleric's+Wrappings"
+        },
+        {
+            "name": "Corrupted Penitent Bandages",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Corrupted+Penitent+Bandages"
+        },
+        {
+            "name": "Corrupted Pilgrim Bandages",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Corrupted+Pilgrim+Bandages"
+        },
+        {
+            "name": "Crimson Rector Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Crimson+Rector+Gauntlets"
+        },
+        {
+            "name": "Cursed Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Cursed+Gauntlets"
+        },
+        {
+            "name": "Damarose's Bracers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Damarose's+Bracers"
+        },
+        {
+            "name": "Descrier Guide Wrappings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Descrier+Guide+Wrappings"
+        },
+        {
+            "name": "Despair's Grasp",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Despair's+Grasp"
+        },
+        {
+            "name": "Drustan's Glove",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Drustan's+Glove"
+        },
+        {
+            "name": "Elianne the Starved's Sleeves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Elianne+the+Starved's+Sleeves"
+        },
+        {
+            "name": "Enslaved Miner Shackle",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enslaved+Miner+Shackle"
+        },
+        {
+            "name": "Exacter Sleeves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Exacter+Sleeves"
+        },
+        {
+            "name": "Exiled Stalker Wrappings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Exiled+Stalker+Wrappings"
+        },
+        {
+            "name": "Failed Pilgrim's Gloves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Failed+Pilgrim's+Gloves"
+        },
+        {
+            "name": "Faithless Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Faithless+Gauntlets"
+        },
+        {
+            "name": "Fetid Sacrifice Sleeves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fetid+Sacrifice+Sleeves"
+        },
+        {
+            "name": "Fitzroy's Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fitzroy's+Gauntlets"
+        },
+        {
+            "name": "Hallowed Knight Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hallowed+Knight+Gauntlets"
+        },
+        {
+            "name": "Harrower Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Harrower+Gauntlets"
+        },
+        {
+            "name": "Holy Bulwark Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Holy+Bulwark+Gauntlets"
+        },
+        {
+            "name": "Hushed Saint's Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hushed+Saint's+Gauntlets"
+        },
+        {
+            "name": "Iselle's Bandages",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Iselle's+Bandages"
+        },
+        {
+            "name": "J'deyl Bone Gloves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/J'deyl+Bone+Gloves"
+        },
+        {
+            "name": "Judge Cleric's Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Judge+Cleric's+Gauntlets"
+        },
+        {
+            "name": "Kinrangr Guardian Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kinrangr+Guardian+Gauntlets"
+        },
+        {
+            "name": "Kinrangr Hunter Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kinrangr+Hunter+Gauntlets"
+        },
+        {
+            "name": "Knight of Adyr Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Knight+of+Adyr+Gauntlets"
+        },
+        {
+            "name": "Kukajin's Gloves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kukajin's+Gloves"
+        },
+        {
+            "name": "Lightreaper's Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lightreaper's+Gauntlets"
+        },
+        {
+            "name": "Lord Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lord+Gauntlets"
+        },
+        {
+            "name": "Marksman Gloves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Marksman+Gloves"
+        },
+        {
+            "name": "Martyr's Shackles",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Martyr's+Shackles"
+        },
+        {
+            "name": "Mournstead Infantry Gloves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Mournstead+Infantry+Gloves"
+        },
+        {
+            "name": "Neophyte Gloves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Neophyte+Gloves"
+        },
+        {
+            "name": "Noblewoman Sleeves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Noblewoman+Sleeves"
+        },
+        {
+            "name": "Orian Preacher Wrappings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Orian+Preacher+Wrappings"
+        },
+        {
+            "name": "Overseer Gloves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Overseer+Gloves"
+        },
+        {
+            "name": "Paladin Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Paladin+Gauntlets"
+        },
+        {
+            "name": "Partisan Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Partisan+Gauntlets"
+        },
+        {
+            "name": "Penitent Shackles",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Penitent+Shackles"
+        },
+        {
+            "name": "Pieta's Sleeves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pieta's+Sleeves"
+        },
+        {
+            "name": "Pilgrim Bandages",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pilgrim+Bandages"
+        },
+        {
+            "name": "Prole Wrappings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Prole+Wrappings"
+        },
+        {
+            "name": "Proselyte Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Proselyte+Gauntlets"
+        },
+        {
+            "name": "Pureblade Gloves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pureblade+Gloves"
+        },
+        {
+            "name": "Purger Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Purger+Gauntlets"
+        },
+        {
+            "name": "Putrid Child Arm Wrappings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Putrid+Child+Arm+Wrappings"
+        },
+        {
+            "name": "Pyric Cultist Gloves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pyric+Cultist+Gloves"
+        },
+        {
+            "name": "Radiant Purifier Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Radiant+Purifier+Gauntlets"
+        },
+        {
+            "name": "Rapturous Huntress Sleeves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rapturous+Huntress+Sleeves"
+        },
+        {
+            "name": "Ravager Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ravager+Gauntlets"
+        },
+        {
+            "name": "Raw Mangler Sleeves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Raw+Mangler+Sleeves"
+        },
+        {
+            "name": "Ruiner Sleeves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ruiner+Sleeves"
+        },
+        {
+            "name": "Sacred Resonance Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sacred+Resonance+Gauntlets"
+        },
+        {
+            "name": "Scourged Sister Arm Wrappings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Scourged+Sister+Arm+Wrappings"
+        },
+        {
+            "name": "Shuja Strider Arm Wrappings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Shuja+Strider+Arm+Wrappings"
+        },
+        {
+            "name": "Shuja Warrior Arm Wrappings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Shuja+Warrior+Arm+Wrappings"
+        },
+        {
+            "name": "Sin-Piercer Sleeves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sin-Piercer+Sleeves"
+        },
+        {
+            "name": "Skinstealer Sleeves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Skinstealer+Sleeves"
+        },
+        {
+            "name": "Sovereign Protector Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sovereign+Protector+Gauntlets"
+        },
+        {
+            "name": "Stomund's Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Stomund's+Gauntlets"
+        },
+        {
+            "name": "Tancred's Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Tancred's+Gauntlets"
+        },
+        {
+            "name": "The Iron Wayfarer's Gauntlet",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Iron+Wayfarer's+Gauntlet"
+        },
+        {
+            "name": "Tortured Prisoner's Shackles",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Tortured+Prisoner's+Shackles"
+        },
+        {
+            "name": "Udirangr Warwolf Sleeves",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Udirangr+Warwolf+Sleeves"
+        },
+        {
+            "name": "Vanguard Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Vanguard+Gauntlets"
+        }
+    ],
+    "legs": [
+        {
+            "name": "Abbess Skirt",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Abbess+Skirt"
+        },
+        {
+            "name": "Abiding Defender Leg Wrappings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Abiding+Defender+Leg+Wrappings"
+        },
+        {
+            "name": "Accursed Wretch Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Accursed+Wretch+Trousers"
+        },
+        {
+            "name": "Andreas of Ebb's Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Andreas+of+Ebb's+Leggings"
+        },
+        {
+            "name": "Angel of the Void Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Angel+of+the+Void+Trousers"
+        },
+        {
+            "name": "Ardent Penitent Loincloth",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ardent+Penitent+Loincloth"
+        },
+        {
+            "name": "Avowed Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Avowed+Trousers"
+        },
+        {
+            "name": "Blackfeather Ranger Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Blackfeather+Ranger+Trousers"
+        },
+        {
+            "name": "Byron's Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Byron's+Trousers"
+        },
+        {
+            "name": "Calrath Guardsman Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Calrath+Guardsman+Trousers"
+        },
+        {
+            "name": "Carrion Knight Skirt",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Carrion+Knight+Skirt"
+        },
+        {
+            "name": "Condemned Fetters",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Condemned+Fetters"
+        },
+        {
+            "name": "Conflagrant Seer Skirt",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Conflagrant+Seer+Skirt"
+        },
+        {
+            "name": "Corrupted Cleric's Skirt",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Corrupted+Cleric's+Skirt"
+        },
+        {
+            "name": "Corrupted Penitent Loincloth",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Corrupted+Penitent+Loincloth"
+        },
+        {
+            "name": "Corrupted Pilgrim Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Corrupted+Pilgrim+Trousers"
+        },
+        {
+            "name": "Crimson Rector Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Crimson+Rector+Leggings"
+        },
+        {
+            "name": "Cursed Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Cursed+Leggings"
+        },
+        {
+            "name": "Damarose's Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Damarose's+Trousers"
+        },
+        {
+            "name": "Descrier Guide Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Descrier+Guide+Leggings"
+        },
+        {
+            "name": "Despair's Burden",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Despair's+Burden"
+        },
+        {
+            "name": "Drustan's Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Drustan's+Leggings"
+        },
+        {
+            "name": "Elianne the Starved's Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Elianne+the+Starved's+Leggings"
+        },
+        {
+            "name": "Enslaved Miner Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enslaved+Miner+Trousers"
+        },
+        {
+            "name": "Exacter Skirt",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Exacter+Skirt"
+        },
+        {
+            "name": "Exiled Stalker Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Exiled+Stalker+Trousers"
+        },
+        {
+            "name": "Failed Pilgrim's Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Failed+Pilgrim's+Leggings"
+        },
+        {
+            "name": "Faithless Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Faithless+Trousers"
+        },
+        {
+            "name": "Fetid Sacrifice Boots",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fetid+Sacrifice+Boots"
+        },
+        {
+            "name": "Fitzroy's Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fitzroy's+Leggings"
+        },
+        {
+            "name": "Fungal Bowman Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fungal+Bowman+Trousers"
+        },
+        {
+            "name": "Hallowed Knight Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hallowed+Knight+Leggings"
+        },
+        {
+            "name": "Harrower Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Harrower+Leggings"
+        },
+        {
+            "name": "Holy Bulwark Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Holy+Bulwark+Trousers"
+        },
+        {
+            "name": "Hushed Saint's Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hushed+Saint's+Trousers"
+        },
+        {
+            "name": "Infernal Enchantress Skirt",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Infernal+Enchantress+Skirt"
+        },
+        {
+            "name": "Iselle's Skirt",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Iselle's+Skirt"
+        },
+        {
+            "name": "J'deyl Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/J'deyl+Trousers"
+        },
+        {
+            "name": "Judge Cleric's Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Judge+Cleric's+Leggings"
+        },
+        {
+            "name": "Kinrangr Guardian Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kinrangr+Guardian+Trousers"
+        },
+        {
+            "name": "Kinrangr Hunter Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kinrangr+Hunter+Trousers"
+        },
+        {
+            "name": "Knight of Adyr Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Knight+of+Adyr+Trousers"
+        },
+        {
+            "name": "Kukajin's Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kukajin's+Leggings"
+        },
+        {
+            "name": "Leg Bones",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Leg+Bones"
+        },
+        {
+            "name": "Lightreaper's Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lightreaper's+Leggings"
+        },
+        {
+            "name": "Lord Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lord+Leggings"
+        },
+        {
+            "name": "Marksman Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Marksman+Trousers"
+        },
+        {
+            "name": "Mournstead Infantry Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Mournstead+Infantry+Leggings"
+        },
+        {
+            "name": "Neophyte Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Neophyte+Trousers"
+        },
+        {
+            "name": "Noblewoman Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Noblewoman+Leggings"
+        },
+        {
+            "name": "Orian Preacher Skirt",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Orian+Preacher+Skirt"
+        },
+        {
+            "name": "Overseer Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Overseer+Trousers"
+        },
+        {
+            "name": "Paladin Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Paladin+Leggings"
+        },
+        {
+            "name": "Partisan Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Partisan+Leggings"
+        },
+        {
+            "name": "Penitent Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Penitent+Trousers"
+        },
+        {
+            "name": "Pieta's Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pieta's+Leggings"
+        },
+        {
+            "name": "Pilgrim Skirt",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pilgrim+Skirt"
+        },
+        {
+            "name": "Prole Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Prole+Trousers"
+        },
+        {
+            "name": "Proselyte Legging",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Proselyte+Legging"
+        },
+        {
+            "name": "Pureblade Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pureblade+Trousers"
+        },
+        {
+            "name": "Purger Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Purger+Leggings"
+        },
+        {
+            "name": "Putrid Child Leg Wrappings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Putrid+Child+Leg+Wrappings"
+        },
+        {
+            "name": "Pyric Cultist Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pyric+Cultist+Leggings"
+        },
+        {
+            "name": "Radiant Purifier Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Radiant+Purifier+Trousers"
+        },
+        {
+            "name": "Rapturous Huntress Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rapturous+Huntress+Trousers"
+        },
+        {
+            "name": "Ravager Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ravager+Leggings"
+        },
+        {
+            "name": "Raw Mangler Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Raw+Mangler+Trousers"
+        },
+        {
+            "name": "Ruiner Boots",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ruiner+Boots"
+        },
+        {
+            "name": "Sacred Resonance Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sacred+Resonance+Leggings"
+        },
+        {
+            "name": "Scourged Sister Leg Wrappings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Scourged+Sister+Leg+Wrappings"
+        },
+        {
+            "name": "Shuja Strider Leg Wrappings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Shuja+Strider+Leg+Wrappings"
+        },
+        {
+            "name": "Shuja Warrior Leg Wrappings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Shuja+Warrior+Leg+Wrappings"
+        },
+        {
+            "name": "Sin-Piercer Boots",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sin-Piercer+Boots"
+        },
+        {
+            "name": "Skinstealer Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Skinstealer+Leggings"
+        },
+        {
+            "name": "Sovereign Protector Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sovereign+Protector+Leggings"
+        },
+        {
+            "name": "Stomund's Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Stomund's+Leggings"
+        },
+        {
+            "name": "Tancred's Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Tancred's+Leggings"
+        },
+        {
+            "name": "The Iron Wayfarer's Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Iron+Wayfarer's+Trousers"
+        },
+        {
+            "name": "Tortured Prisoner's Skirt",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Tortured+Prisoner's+Skirt"
+        },
+        {
+            "name": "Udirangr Warwolf Trousers",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Udirangr+Warwolf+Trousers"
+        },
+        {
+            "name": "Vanguard Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Vanguard+Leggings"
+        }
+    ]
+}

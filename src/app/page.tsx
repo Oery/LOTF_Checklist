@@ -1,12 +1,29 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import data from "./data.json";
 import TabButton from "./components/TabButton";
 import Tab from "./components/Tab";
 import { CategoryName } from "./types/interfaces";
 
+import armors from "./data/armors.json";
+import weapons from "./data/weapons.json";
+import rings from "./data/rings.json";
+import gestures from "./data/gestures.json";
+import pendants from "./data/pendants.json";
+import bosses from "./data/bosses.json";
+import umbralEyes from "./data/umbral-eyes.json";
+
 function App(): JSX.Element {
+    const data = {
+        armors,
+        weapons,
+        rings,
+        gestures,
+        pendants,
+        bosses,
+        umbralEyes,
+    };
+
     const [activeTab, setActiveTab] = useState<CategoryName>("bosses");
     const [completedGoals, setCompletedGoals] = useState<string[]>([]);
 
