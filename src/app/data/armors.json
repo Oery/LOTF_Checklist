@@ -46,6 +46,11 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Blessed+Carrion+Knight+Helm"
         },
         {
+            "name": "Bucketlord Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bucketlord+Helm"
+        },
+        {
             "name": "Byron's Cap",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Byron's+Cap"
@@ -171,6 +176,11 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fungal+Bowman+Collar"
         },
         {
+            "name": "General Engstrom's Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/General+Engstrom's+Helm"
+        },
+        {
             "name": "Grace of Adyr Mask",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Grace+of+Adyr+Mask"
@@ -191,9 +201,19 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Harrower+Helm"
         },
         {
+            "name": "Herald of the Maw Mask",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Herald+of+the+Maw+Mask"
+        },
+        {
             "name": "Holy Bulwark Helm",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Holy+Bulwark+Helm"
+        },
+        {
+            "name": "Illuminator Aubrey's Helm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Illuminator+Aubrey's+Helm"
         },
         {
             "name": "Infernal Enchantress Helm",
@@ -623,6 +643,11 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fitzroy's+Armour"
         },
         {
+            "name": "General Engstrom's Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/General+Engstrom's+Armour"
+        },
+        {
             "name": "Grace of Adyr Loincloth",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Grace+of+Adyr+Loincloth"
@@ -643,6 +668,11 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Harrower+Armour"
         },
         {
+            "name": "Herald of the Maw Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Herald+of+the+Maw+Armour"
+        },
+        {
             "name": "Holy Bulwark Armour",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Holy+Bulwark+Armour"
@@ -651,6 +681,11 @@
             "name": "Hushed Saint's Armour",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hushed+Saint's+Armour"
+        },
+        {
+            "name": "Illuminator Aubrey's Armour",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Illuminator+Aubrey's+Armour"
         },
         {
             "name": "Infernal Enchantress Armour",
@@ -1055,6 +1090,11 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fitzroy's+Gauntlets"
         },
         {
+            "name": "General Engstrom's Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/General+Engstrom's+Gauntlets"
+        },
+        {
             "name": "Hallowed Knight Gauntlets",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hallowed+Knight+Gauntlets"
@@ -1065,6 +1105,11 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Harrower+Gauntlets"
         },
         {
+            "name": "Herald of the Maw Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Herald+of+the+Maw+Gauntlets"
+        },
+        {
             "name": "Holy Bulwark Gauntlets",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Holy+Bulwark+Gauntlets"
@@ -1073,6 +1118,11 @@
             "name": "Hushed Saint's Gauntlets",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hushed+Saint's+Gauntlets"
+        },
+        {
+            "name": "Illuminator Aubrey's Gauntlets",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Illuminator+Aubrey's+Gauntlets"
         },
         {
             "name": "Iselle's Bandages",
@@ -1342,6 +1392,11 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Blackfeather+Ranger+Trousers"
         },
         {
+            "name": "Bucketlord Shoes",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bucketlord+Shoes"
+        },
+        {
             "name": "Byron's Trousers",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Byron's+Trousers"
@@ -1457,6 +1512,11 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fungal+Bowman+Trousers"
         },
         {
+            "name": "General Engstrom's Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/General+Engstrom's+Leggings"
+        },
+        {
             "name": "Hallowed Knight Leggings",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hallowed+Knight+Leggings"
@@ -1467,6 +1527,11 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Harrower+Leggings"
         },
         {
+            "name": "Herald of the Maw Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Herald+of+the+Maw+Leggings"
+        },
+        {
             "name": "Holy Bulwark Trousers",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Holy+Bulwark+Trousers"
@@ -1475,6 +1540,11 @@
             "name": "Hushed Saint's Trousers",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hushed+Saint's+Trousers"
+        },
+        {
+            "name": "Illuminator Aubrey's Leggings",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Illuminator+Aubrey's+Leggings"
         },
         {
             "name": "Infernal Enchantress Skirt",
