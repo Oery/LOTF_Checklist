@@ -41,18 +41,10 @@ data = [
             { 'name': 'umbral', 'url': 'Umbral+Spells' },
         ]
     },
-    {
-        'name': 'pendants',
-        'url': 'Pendants',
-    },
-    {
-        'name': 'rings',
-        'url': 'Rings',
-    },
-    {
-        'name': 'gestures',
-        'url': 'Gestures',
-    },
+    { 'name': 'pendants', 'url': 'Pendants' },
+    { 'name': 'rings', 'url': 'Rings' },
+    { 'name': 'gestures', 'url': 'Gestures' },
+    { 'name': 'umbral_eyes', 'url': 'Umbral+Eyes' },
     {
         'name': 'bosses',
         'url': 'Bosses',
@@ -62,10 +54,6 @@ data = [
             '.',
             ''
         ],
-    },
-    {
-        'name': 'umbral_eyes',
-        'url': 'Umbral+Eyes',
     }
 ]
 
