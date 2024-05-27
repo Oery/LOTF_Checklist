@@ -2,42 +2,37 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-url = 'https://thelordsofthefallen.wiki.fextralife.com/Gestures'
+item_file_name = 'gestures'
+item_url = 'Gestures'
 
-response = requests.get(url)
+response = requests.get(f'https://thelordsofthefallen.wiki.fextralife.com/{item_url}')
 
-if response.status_code == 200:
-    soup = BeautifulSoup(response.content, 'html.parser')
-    gesture_containers = soup.find_all(class_="wiki_link")
-    
-    gestures = []
-
-    for gesture_link in gesture_containers:
-        
-        img = gesture_link.find('img')
-        if not img:
-            continue
-        
-        if gesture_link and 'href' in gesture_link.attrs:
-            name = gesture_link.get_text(strip=True)
-            
-            if name == "":
-                continue
-            
-            wiki_link = 'https://thelordsofthefallen.wiki.fextralife.com' + gesture_link['href']
-            gestures.append({
-                "name": name,
-                "description": "",
-                "wiki_link": wiki_link
-            })
-
-    file_name = '../src/app/data/gestures.json'
-
-    # Open the file in write mode and save the JSON data
-    with open(file_name, 'w') as json_file:
-        json.dump(gestures, json_file, indent=4)
-        
-    content = json.dumps(gestures, indent=4)
-    print(content)
-else:
+if response.status_code != 200:
     print(f'Failed to retrieve webpage content. Status code: {response.status_code}')
+    raise Exception('Failed to retrieve webpage content')
+
+soup = BeautifulSoup(response.content, 'html.parser')
+items_containers = soup.find_all(class_="wiki_link")
+
+items = []
+
+for item_container in items_containers:
+    if not item_container.find('img'): continue
+    if not 'href' in item_container.attrs: continue
+    
+    name = item_container.get_text(strip=True)
+    if name == "": continue
+    
+    wiki_link = f'https://thelordsofthefallen.wiki.fextralife.com{item_container["href"]}'
+    items.append({
+        "name": name,
+        "description": "",
+        "wiki_link": wiki_link
+    })
+
+# Open the file in write mode and save the JSON data
+with open( f'../src/app/data/{item_file_name}.json', 'w') as json_file:
+    json.dump(items, json_file, indent=4)
+    
+content = json.dumps(items, indent=4)
+print(content)
