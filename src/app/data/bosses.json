@@ -45,6 +45,11 @@
         "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Elianne+the+Starved"
     },
     {
+        "name": "General Engstrom",
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/General+Engstrom"
+    },
+    {
         "name": "Gentle Gaverus, Mistress of Hounds",
         "description": "",
         "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Gentle+Gaverus+Mistress+of+Hounds"
@@ -65,24 +70,24 @@
         "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Holy+Bulwark+Otto"
     },
     {
-        "name": "Infernal Enchantress",
-        "description": "",
-        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Infernal+Enchantress"
-    },
-    {
-        "name": "Judge Cleric, the Radiant Sentinel",
-        "description": "",
-        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Judge+Cleric+the+Radiant+Sentinel"
-    },
-    {
         "name": "Kinrangr Guardian Folard",
         "description": "",
         "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kinrangr+Guardian+Folard"
     },
     {
+        "name": "Infernal Enchantress",
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Infernal+Enchantress"
+    },
+    {
         "name": "Kukajin",
         "description": "",
-        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kukajin"
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kukajin+(Boss)"
+    },
+    {
+        "name": "Judge Cleric, the Radiant Sentinel",
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Judge+Cleric+the+Radiant+Sentinel"
     },
     {
         "name": "Mendacious Visage",
@@ -176,7 +181,7 @@
     },
     {
         "name": "Tortured Prisoner",
-        "description": "Need to fail Sophesia quest line",
-        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Tortured+Prisoner"
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Tortured+Prisoner+(Boss)"
     }
 ]
