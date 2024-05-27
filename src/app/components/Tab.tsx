@@ -139,24 +139,6 @@ function Tab({ name, items, completedGoals, setCompletedGoals }: Readonly<Props>
             </h2>
             <Searchbar handleSearchChange={handleSearchChange} />
             {renderItems()}
-            {/* <ul>
-                {filteredItems.map((item) => {
-                    const isCompleted = completedGoals.includes(item.name);
-                    if (!showCompleted && isCompleted) return null;
-
-                    return (
-                        <li key={item.name} className="checkbox">
-                            <label onClick={() => handleUpdateProgress(item.name)}>
-                                <input type="checkbox" checked={isCompleted} />
-                                <span>
-                                    <WikiLink name={item.name} url={item.wiki_link} />
-                                    <p>{item.description}</p>
-                                </span>
-                            </label>
-                        </li>
-                    );
-                })}
-            </ul> */}
         </div>
     );
 }
