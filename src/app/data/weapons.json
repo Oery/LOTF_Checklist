@@ -1,5 +1,5 @@
 {
-    "axes_and_hammers": [
+    "axes": [
         {
             "name": "Axe of the Flayed",
             "description": "",
@@ -64,119 +64,9 @@
             "name": "Wooden Cross",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Wooden+Cross"
-        },
-        {
-            "name": "Angel's Axe",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Angel's+Axe"
-        },
-        {
-            "name": "Damarose's Cleaver",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Damarose's+Cleaver"
-        },
-        {
-            "name": "Executioner's Axe",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Executioner's+Axe"
-        },
-        {
-            "name": "Kinrangr Guardian Axe",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kinrangr+Guardian+Axe"
-        },
-        {
-            "name": "Lord Axe",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lord+Axe"
-        },
-        {
-            "name": "Marco's Axe",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Marco's+Axe"
-        },
-        {
-            "name": "Ruiner Axe",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ruiner+Axe"
-        },
-        {
-            "name": "Tassara's Axe",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Tassara's+Axe"
-        },
-        {
-            "name": "The Toll",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Toll"
-        },
-        {
-            "name": "Tundra Axe",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Tundra+Axe"
-        },
-        {
-            "name": "Anvil Hammer",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Anvil+Hammer"
-        },
-        {
-            "name": "Crushing Gaze",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Crushing+Gaze"
-        },
-        {
-            "name": "Devotion's Might",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Devotion's+Might"
-        },
-        {
-            "name": "Faithful Bludgeon",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Faithful+Bludgeon"
-        },
-        {
-            "name": "Holy Bulwark Mace",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Holy+Bulwark+Mace"
-        },
-        {
-            "name": "Nohuta Ritual Hammer",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Nohuta+Ritual+Hammer"
-        },
-        {
-            "name": "Queen's Head Hammer",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Queen's+Head+Hammer"
-        },
-        {
-            "name": "Righteous Pulveriser",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Righteous+Pulveriser"
-        },
-        {
-            "name": "Sacred Resonance Hammer",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sacred+Resonance+Hammer"
-        },
-        {
-            "name": "Scale-Breaker",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Scale-Breaker"
-        },
-        {
-            "name": "Taxidermist's Hammer",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Taxidermist's+Hammer"
-        },
-        {
-            "name": "The Iron Wayfarer's Hammer",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Iron+Wayfarer's+Hammer"
         }
     ],
-    "bow": [
+    "bows": [
         {
             "name": "Assassin's Bow",
             "description": "",
@@ -228,11 +118,11 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Udirangr+Shaman+Bow"
         }
     ],
-    "catalyst": [
+    "catalysts": [
         {
-            "name": "Abbess Chalice",
+            "name": "Orian Preacher Catalyst",
             "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Abbess+Chalice"
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Orian+Preacher+Catalyst"
         },
         {
             "name": "Agony's Light",
@@ -240,9 +130,14 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Agony's+Light"
         },
         {
-            "name": "Charm of Fortune's Sight",
+            "name": "Wilmarc's Catalyst",
             "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Charm+of+Fortune's+Sight"
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Wilmarc's+Catalyst"
+        },
+        {
+            "name": "Abbess Chalice",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Abbess+Chalice"
         },
         {
             "name": "Exacter Scripture",
@@ -250,39 +145,9 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Exacter+Scripture"
         },
         {
-            "name": "Hungering Knot",
+            "name": "Radiant Purifier Catalyst",
             "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hungering+Knot"
-        },
-        {
-            "name": "Lord Catalyst",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lord+Catalyst"
-        },
-        {
-            "name": "Lost Berescu's Catalyst",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lost+Berescu's+Catalyst"
-        },
-        {
-            "name": "Miranda's Touch",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Miranda's+Touch"
-        },
-        {
-            "name": "Nohuta Effigy",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Nohuta+Effigy"
-        },
-        {
-            "name": "Orian Preacher Catalyst",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Orian+Preacher+Catalyst"
-        },
-        {
-            "name": "Putrid Child Catalyst",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Putrid+Child+Catalyst"
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Radiant+Purifier+Catalyst"
         },
         {
             "name": "Pyric Cultist Catalyst",
@@ -290,9 +155,9 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pyric+Cultist+Catalyst"
         },
         {
-            "name": "Radiant Purifier Catalyst",
+            "name": "Searing Accusation",
             "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Radiant+Purifier+Catalyst"
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Searing+Accusation"
         },
         {
             "name": "Rhogar Heart",
@@ -300,22 +165,52 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rhogar+Heart"
         },
         {
-            "name": "Searing Accusation",
+            "name": "Lord Catalyst",
             "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Searing+Accusation"
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lord+Catalyst"
+        },
+        {
+            "name": "Miranda's Touch",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Miranda's+Touch"
+        },
+        {
+            "name": "Queen Sophesia's Catalyst",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Queen+Sophesia's+Catalyst"
+        },
+        {
+            "name": "Nohuta Effigy",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Nohuta+Effigy"
+        },
+        {
+            "name": "Charm of Fortune's Sight",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Charm+of+Fortune's+Sight"
+        },
+        {
+            "name": "Hungering Knot",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hungering+Knot"
+        },
+        {
+            "name": "Lost Berescu's Catalyst",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lost+Berescu's+Catalyst"
+        },
+        {
+            "name": "Putrid Child Catalyst",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Putrid+Child+Catalyst"
         },
         {
             "name": "Sunken Beseecher",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sunken+Beseecher"
-        },
-        {
-            "name": "Wilmarc's Catalyst",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Wilmarc's+Catalyst"
         }
     ],
-    "crossbow": [
+    "crossbows": [
         {
             "name": "Death's Finger",
             "description": "",
@@ -407,14 +302,14 @@
             "name": "Skinstealer Knife",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Skinstealer+Knife"
-        },
+        }
+    ],
+    "fists": [
         {
             "name": "Bloodletter",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bloodletter"
-        }
-    ],
-    "fists": [
+        },
         {
             "name": "Broken Bucket",
             "description": "",
@@ -434,6 +329,16 @@
             "name": "Fist of Insight",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fist+of+Insight"
+        },
+        {
+            "name": "Gilded Bucket",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Gilded+Bucket"
+        },
+        {
+            "name": "Horned Skull",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Horned+Skull"
         },
         {
             "name": "Lord's Bite",
@@ -473,6 +378,11 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Flail+of+Wisdom"
         },
         {
+            "name": "Flickering Flail",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Flickering+Flail"
+        },
+        {
             "name": "Infernal Enchantress Flail",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Infernal+Enchantress+Flail"
@@ -498,7 +408,389 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Stomund's+Flail"
         }
     ],
-    "swords": [
+    "grand-axes": [
+        {
+            "name": "Angel's Axe",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Angel's+Axe"
+        },
+        {
+            "name": "Damarose's Cleaver",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Damarose's+Cleaver"
+        },
+        {
+            "name": "Executioner's Axe",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Executioner's+Axe"
+        },
+        {
+            "name": "Kinrangr Guardian Axe",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kinrangr+Guardian+Axe"
+        },
+        {
+            "name": "Lord Axe",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lord+Axe"
+        },
+        {
+            "name": "Marco's Axe",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Marco's+Axe"
+        },
+        {
+            "name": "Ruiner Axe",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ruiner+Axe"
+        },
+        {
+            "name": "Tassara's Axe",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Tassara's+Axe"
+        },
+        {
+            "name": "The Toll",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Toll"
+        },
+        {
+            "name": "Tundra Axe",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Tundra+Axe"
+        }
+    ],
+    "grand-hammers": [
+        {
+            "name": "Anvil Hammer",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Anvil+Hammer"
+        },
+        {
+            "name": "Crushing Gaze",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Crushing+Gaze"
+        },
+        {
+            "name": "Devotion's Might",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Devotion's+Might"
+        },
+        {
+            "name": "Faithful Bludgeon",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Faithful+Bludgeon"
+        },
+        {
+            "name": "Holy Bulwark Mace",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Holy+Bulwark+Mace"
+        },
+        {
+            "name": "Nohuta Ritual Hammer",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Nohuta+Ritual+Hammer"
+        },
+        {
+            "name": "Queen's Head Hammer",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Queen's+Head+Hammer"
+        },
+        {
+            "name": "Righteous Pulveriser",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Righteous+Pulveriser"
+        },
+        {
+            "name": "Sacred Resonance Hammer",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sacred+Resonance+Hammer"
+        },
+        {
+            "name": "Scale-Breaker",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Scale-Breaker"
+        },
+        {
+            "name": "Taxidermist's Hammer",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Taxidermist's+Hammer"
+        },
+        {
+            "name": "The Iron Wayfarer's Hammer",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Iron+Wayfarer's+Hammer"
+        }
+    ],
+    "grand-swords": [
+        {
+            "name": "Ancestor's Sword",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ancestor's+Sword"
+        },
+        {
+            "name": "Bloody Glory",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bloody+Glory"
+        },
+        {
+            "name": "Ebonlight Abiding Defender Sword",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ebonlight+Abiding+Defender+Sword"
+        },
+        {
+            "name": "Fallen Lord's Sword",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fallen+Lord's+Sword"
+        },
+        {
+            "name": "Harrower Dervla's Sword",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Harrower+Dervla's+Sword"
+        },
+        {
+            "name": "Justice",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Justice"
+        },
+        {
+            "name": "Luminous Abiding Defender Sword",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Luminous+Abiding+Defender+Sword"
+        },
+        {
+            "name": "Pale Butcher's Blade",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pale+Butcher's+Blade"
+        },
+        {
+            "name": "Ravager Gregory's Sword",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ravager+Gregory's+Sword"
+        },
+        {
+            "name": "Resh-Mesah's Sword",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Resh-Mesah's+Sword"
+        },
+        {
+            "name": "Sword of Skin and Tooth",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sword+of+Skin+and+Tooth"
+        },
+        {
+            "name": "Sword of the Flayed",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sword+of+the+Flayed"
+        }
+    ],
+    "hammers": [
+        {
+            "name": "Avowed Mace",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Avowed+Mace"
+        },
+        {
+            "name": "Bartholomew's Hammer",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bartholomew's+Hammer"
+        },
+        {
+            "name": "Drustan's Hammer",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Drustan's+Hammer"
+        },
+        {
+            "name": "Exacter Dunmire's Cane",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Exacter+Dunmire's+Cane"
+        },
+        {
+            "name": "Gerlinde's Hammer",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Gerlinde's+Hammer"
+        },
+        {
+            "name": "Hammer of Holy Agony",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hammer+of+Holy+Agony"
+        },
+        {
+            "name": "Heretical Sentinel's Hammer",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Heretical+Sentinel's+Hammer"
+        },
+        {
+            "name": "Judgement",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Judgement"
+        },
+        {
+            "name": "Kinrangr Rebel's Hammer",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kinrangr+Rebel's+Hammer"
+        },
+        {
+            "name": "Orian Preacher Hammer",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Orian+Preacher+Hammer"
+        },
+        {
+            "name": "Precision Hammer",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Precision+Hammer"
+        },
+        {
+            "name": "Punishment",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Punishment"
+        },
+        {
+            "name": "Pureblade Mace",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pureblade+Mace"
+        },
+        {
+            "name": "Stick",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Stick"
+        }
+    ],
+    "long-swords": [
+        {
+            "name": "Crimson Rector Sword",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Crimson+Rector+Sword"
+        },
+        {
+            "name": "Fitzroy's Sword",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fitzroy's+Sword"
+        },
+        {
+            "name": "Judge Cleric's Corrupted Sword",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Judge+Cleric's+Corrupted+Sword"
+        },
+        {
+            "name": "Judge Cleric's Radiant Sword",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Judge+Cleric's+Radiant+Sword"
+        },
+        {
+            "name": "Old Mournstead Large Sword",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Old+Mournstead+Large+Sword"
+        },
+        {
+            "name": "Paladin Isaac's Sword",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Paladin+Isaac's+Sword"
+        },
+        {
+            "name": "Proselyte Sword",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Proselyte+Sword"
+        },
+        {
+            "name": "Rosamund's Sword",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rosamund's+Sword"
+        },
+        {
+            "name": "The Red Hand",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Red+Hand"
+        },
+        {
+            "name": "Thorned Crimson Rector Sword",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Thorned+Crimson+Rector+Sword"
+        },
+        {
+            "name": "Udirangr Warwolf Sword",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Udirangr+Warwolf+Sword"
+        },
+        {
+            "name": "Vanguard Barros' Sword",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Vanguard+Barros'+Sword"
+        }
+    ],
+    "polearms": [
+        {
+            "name": "Abbess Staff",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Abbess+Staff"
+        },
+        {
+            "name": "Carrion Knight Staff",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Carrion+Knight+Staff"
+        },
+        {
+            "name": "Conflagrant Seer Staff",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Conflagrant+Seer+Staff"
+        },
+        {
+            "name": "Duty's Chime",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Duty's+Chime"
+        },
+        {
+            "name": "Hushed Saint's Halberd",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hushed+Saint's+Halberd"
+        },
+        {
+            "name": "Nohuta Polearm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Nohuta+Polearm"
+        },
+        {
+            "name": "Old Mournstead Pike",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Old+Mournstead+Pike"
+        },
+        {
+            "name": "Overseer's Halberd",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Overseer's+Halberd"
+        },
+        {
+            "name": "Putrid Polearm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Putrid+Polearm"
+        },
+        {
+            "name": "Pyric Cultist Staff",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pyric+Cultist+Staff"
+        },
+        {
+            "name": "Radiant Purifier Polearm",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Radiant+Purifier+Polearm"
+        },
+        {
+            "name": "Rhogar's Reach",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rhogar's+Reach"
+        },
+        {
+            "name": "Serrated Staff",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Serrated+Staff"
+        },
+        {
+            "name": "Tancred's Mancatcher",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Tancred's+Mancatcher"
+        }
+    ],
+    "short-swords": [
         {
             "name": "Andreas of Ebb's Sword",
             "description": "",
@@ -593,260 +885,6 @@
             "name": "Sin-Piercer Sword",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sin-Piercer+Sword"
-        },
-        {
-            "name": "Ancestor's Sword",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ancestor's+Sword"
-        },
-        {
-            "name": "Bloody Glory",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bloody+Glory"
-        },
-        {
-            "name": "Ebonlight Abiding Defender Sword",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ebonlight+Abiding+Defender+Sword"
-        },
-        {
-            "name": "Fallen Lord's Sword",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fallen+Lord's+Sword"
-        },
-        {
-            "name": "Harrower Dervla's Sword",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Harrower+Dervla's+Sword"
-        },
-        {
-            "name": "Justice",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Justice"
-        },
-        {
-            "name": "Luminous Abiding Defender Sword",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Luminous+Abiding+Defender+Sword"
-        },
-        {
-            "name": "Pale Butcher's Blade",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pale+Butcher's+Blade"
-        },
-        {
-            "name": "Ravager Gregory's Sword",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Ravager+Gregory's+Sword"
-        },
-        {
-            "name": "Resh-Mesah's Sword",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Resh-Mesah's+Sword"
-        },
-        {
-            "name": "Sword of Skin and Tooth",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sword+of+Skin+and+Tooth"
-        },
-        {
-            "name": "Sword of the Flayed",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sword+of+the+Flayed"
-        },
-        {
-            "name": "Crimson Rector Sword",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Crimson+Rector+Sword"
-        },
-        {
-            "name": "Fitzroy's Sword",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fitzroy's+Sword"
-        },
-        {
-            "name": "Judge Cleric's Corrupted Sword",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Judge+Cleric's+Corrupted+Sword"
-        },
-        {
-            "name": "Judge Cleric's Radiant Sword",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Judge+Cleric's+Radiant+Sword"
-        },
-        {
-            "name": "Old Mournstead Large Sword",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Old+Mournstead+Large+Sword"
-        },
-        {
-            "name": "Paladin Isaac's Sword",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Paladin+Isaac's+Sword"
-        },
-        {
-            "name": "Proselyte Sword",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Proselyte+Sword"
-        },
-        {
-            "name": "Rosamund's Sword",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rosamund's+Sword"
-        },
-        {
-            "name": "The Red Hand",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Red+Hand"
-        },
-        {
-            "name": "Thorned Crimson Rector Sword",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Thorned+Crimson+Rector+Sword"
-        },
-        {
-            "name": "Udirangr Warwolf Sword",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Udirangr+Warwolf+Sword"
-        },
-        {
-            "name": "Vanguard Barros' Sword",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Vanguard+Barros'+Sword"
-        }
-    ],
-    "hammer": [
-        {
-            "name": "Avowed Mace",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Avowed+Mace"
-        },
-        {
-            "name": "Bartholomew's Hammer",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bartholomew's+Hammer"
-        },
-        {
-            "name": "Drustan's Hammer",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Drustan's+Hammer"
-        },
-        {
-            "name": "Exacter Dunmire's Cane",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Exacter+Dunmire's+Cane"
-        },
-        {
-            "name": "Gerlinde's Hammer",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Gerlinde's+Hammer"
-        },
-        {
-            "name": "Hammer of Holy Agony",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hammer+of+Holy+Agony"
-        },
-        {
-            "name": "Heretical Sentinel's Hammer",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Heretical+Sentinel's+Hammer"
-        },
-        {
-            "name": "Kinrangr Rebel's Hammer",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Kinrangr+Rebel's+Hammer"
-        },
-        {
-            "name": "Orian Preacher Hammer",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Orian+Preacher+Hammer"
-        },
-        {
-            "name": "Precision Hammer",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Precision+Hammer"
-        },
-        {
-            "name": "Pureblade Mace",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pureblade+Mace"
-        },
-        {
-            "name": "Stick",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Stick"
-        }
-    ],
-    "polearms": [
-        {
-            "name": "Abbess Staff",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Abbess+Staff"
-        },
-        {
-            "name": "Carrion Knight Staff",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Carrion+Knight+Staff"
-        },
-        {
-            "name": "Conflagrant Seer Staff",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Conflagrant+Seer+Staff"
-        },
-        {
-            "name": "Duty's Chime",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Duty's+Chime"
-        },
-        {
-            "name": "Hushed Saint's Halberd",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hushed+Saint's+Halberd"
-        },
-        {
-            "name": "Nohuta Polearm",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Nohuta+Polearm"
-        },
-        {
-            "name": "Old Mournstead Pike",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Old+Mournstead+Pike"
-        },
-        {
-            "name": "Overseer's Halberd",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Overseer's+Halberd"
-        },
-        {
-            "name": "Putrid Polearm",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Putrid+Polearm"
-        },
-        {
-            "name": "Pyric Cultist Staff",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pyric+Cultist+Staff"
-        },
-        {
-            "name": "Radiant Purifier Polearm",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Radiant+Purifier+Polearm"
-        },
-        {
-            "name": "Rhogar's Reach",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rhogar's+Reach"
-        },
-        {
-            "name": "Serrated Staff",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Serrated+Staff"
-        },
-        {
-            "name": "Tancred's Mancatcher",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Tancred's+Mancatcher"
         }
     ],
     "spears": [
@@ -914,313 +952,6 @@
             "name": "Veil-Piercer",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Veil-Piercer"
-        },
-        {
-            "name": "Accusing Spirit",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Accusing+Spirit"
-        },
-        {
-            "name": "Banner Javelin of Assault",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Banner+Javelin+of+Assault"
-        },
-        {
-            "name": "Banner Javelin of Protection",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Banner+Javelin+of+Protection"
-        }
-    ],
-    "ammunitions": [
-        {
-            "name": "Basic Bolts",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Basic+Bolts"
-        },
-        {
-            "name": "Bloody Hatchet",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bloody+Hatchet"
-        },
-        {
-            "name": "Cinder Arrows",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Cinder+Arrows"
-        },
-        {
-            "name": "Cinder Bolts",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Cinder+Bolts"
-        },
-        {
-            "name": "Corrupted Banner Javelin",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Corrupted+Banner+Javelin"
-        },
-        {
-            "name": "Cursed Dart",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Cursed+Dart"
-        },
-        {
-            "name": "Cursed Effigy",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Cursed+Effigy"
-        },
-        {
-            "name": "Empyrean Grenade",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Empyrean+Grenade"
-        },
-        {
-            "name": "Enhanced Accusing Spirit",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Accusing+Spirit"
-        },
-        {
-            "name": "Enhanced Banner Javelin of Assault",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Banner+Javelin+of+Assault"
-        },
-        {
-            "name": "Enhanced Banner Javelin of Protection",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Banner+Javelin+of+Protection"
-        },
-        {
-            "name": "Enhanced Bloody Hatchet",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Bloody+Hatchet"
-        },
-        {
-            "name": "Enhanced Cursed Dart",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Cursed+Dart"
-        },
-        {
-            "name": "Enhanced Cursed Effigy",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Cursed+Effigy"
-        },
-        {
-            "name": "Enhanced Empyrean Grenade",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Empyrean+Grenade"
-        },
-        {
-            "name": "Enhanced Fire Grenade",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Fire+Grenade"
-        },
-        {
-            "name": "Enhanced Forceburst Parchment",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Forceburst+Parchment"
-        },
-        {
-            "name": "Enhanced Forsaken Grenade",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Forsaken+Grenade"
-        },
-        {
-            "name": "Enhanced Grenade",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Grenade"
-        },
-        {
-            "name": "Enhanced Holy Grenade",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Holy+Grenade"
-        },
-        {
-            "name": "Enhanced Lacerating Knife",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Lacerating+Knife"
-        },
-        {
-            "name": "Enhanced Lump Hammer",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Lump+Hammer"
-        },
-        {
-            "name": "Enhanced Poison Javelin",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Poison+Javelin"
-        },
-        {
-            "name": "Enhanced Poisoning Knife",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Poisoning+Knife"
-        },
-        {
-            "name": "Enhanced Radiantburst Parchment",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Radiantburst+Parchment"
-        },
-        {
-            "name": "Enhanced Rhogar Oil Flask",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Rhogar+Oil+Flask"
-        },
-        {
-            "name": "Enhanced Short Javelin",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Short+Javelin"
-        },
-        {
-            "name": "Enhanced Snake Oil Grenade",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Snake+Oil+Grenade"
-        },
-        {
-            "name": "Enhanced Umbral Burrower",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Umbral+Burrower"
-        },
-        {
-            "name": "Explosive Bolts",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Explosive+Bolts"
-        },
-        {
-            "name": "Fire Grenade",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fire+Grenade"
-        },
-        {
-            "name": "Forceburst Parchment",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Forceburst+Parchment"
-        },
-        {
-            "name": "Forsaken Grenade",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Forsaken+Grenade"
-        },
-        {
-            "name": "Frost Arrows",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Frost+Arrows"
-        },
-        {
-            "name": "Grenade",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Grenade"
-        },
-        {
-            "name": "Holy Grenade",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Holy+Grenade"
-        },
-        {
-            "name": "Lacerating Knife",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lacerating+Knife"
-        },
-        {
-            "name": "Lump Hammer",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lump+Hammer"
-        },
-        {
-            "name": "Oak Arrows",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Oak+Arrows"
-        },
-        {
-            "name": "Poison Arrows",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Poison+Arrows"
-        },
-        {
-            "name": "Poison Javelin",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Poison+Javelin"
-        },
-        {
-            "name": "Poisoning Knife",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Poisoning+Knife"
-        },
-        {
-            "name": "Precision Arrows",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Precision+Arrows"
-        },
-        {
-            "name": "Pulsing Arrows",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pulsing+Arrows"
-        },
-        {
-            "name": "Radiant Arrows",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Radiant+Arrows"
-        },
-        {
-            "name": "Radiant Bolts",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Radiant+Bolts"
-        },
-        {
-            "name": "Radiantburst Parchment",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Radiantburst+Parchment"
-        },
-        {
-            "name": "Rhogar Oil Flask",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rhogar+Oil+Flask"
-        },
-        {
-            "name": "Rived Bolts",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rived+Bolts"
-        },
-        {
-            "name": "Short Javelin",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Short+Javelin"
-        },
-        {
-            "name": "Snake Oil Grenade",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Snake+Oil+Grenade"
-        },
-        {
-            "name": "Throwing Rock",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Throwing+Rock"
-        },
-        {
-            "name": "Twisted Bolts",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Twisted+Bolts"
-        },
-        {
-            "name": "Umbral Burrower",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Umbral+Burrower"
-        },
-        {
-            "name": "Weighted Arrows",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Weighted+Arrows"
-        },
-        {
-            "name": "Weighted Bolts",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Weighted+Bolts"
-        },
-        {
-            "name": "Wither Arrows",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Wither+Arrows"
-        },
-        {
-            "name": "Wither Bolts",
-            "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Wither+Bolts"
         }
     ],
     "shields": [
@@ -1383,6 +1114,328 @@
             "name": "Shield of Piercing Light",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Shield+of+Piercing+Light"
+        }
+    ],
+    "ammunitions": [
+        {
+            "name": "Cinder Arrows",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Cinder+Arrows"
+        },
+        {
+            "name": "Frost Arrows",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Frost+Arrows"
+        },
+        {
+            "name": "Oak Arrows",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Oak+Arrows"
+        },
+        {
+            "name": "Poison Arrows",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Poison+Arrows"
+        },
+        {
+            "name": "Precision Arrows",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Precision+Arrows"
+        },
+        {
+            "name": "Pulsing Arrows",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pulsing+Arrows"
+        },
+        {
+            "name": "Radiant Arrows",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Radiant+Arrows"
+        },
+        {
+            "name": "Weighted Arrows",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Weighted+Arrows"
+        },
+        {
+            "name": "Wither Arrows",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Wither+Arrows"
+        },
+        {
+            "name": "Basic Bolts",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Basic+Bolts"
+        },
+        {
+            "name": "Cinder Bolts",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Cinder+Bolts"
+        },
+        {
+            "name": "Explosive Bolts",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Explosive+Bolts"
+        },
+        {
+            "name": "Radiant Bolts",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Radiant+Bolts"
+        },
+        {
+            "name": "Rived Bolts",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rived+Bolts"
+        },
+        {
+            "name": "Twisted Bolts",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Twisted+Bolts"
+        },
+        {
+            "name": "Weighted Bolts",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Weighted+Bolts"
+        },
+        {
+            "name": "Wither Bolts",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Wither+Bolts"
+        },
+        {
+            "name": "Banner Javelin of Assault",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Banner+Javelin+of+Assault"
+        },
+        {
+            "name": "Banner Javelin of Protection",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Banner+Javelin+of+Protection"
+        },
+        {
+            "name": "Corrupted Banner Javelin",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Corrupted+Banner+Javelin"
+        },
+        {
+            "name": "Enhanced Banner Javelin of Assault",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Banner+Javelin+of+Assault"
+        },
+        {
+            "name": "Enhanced Banner Javelin of Protection",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Banner+Javelin+of+Protection"
+        },
+        {
+            "name": "Accusing Spirit",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Accusing+Spirit"
+        },
+        {
+            "name": "Bloody Hatchet",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bloody+Hatchet"
+        },
+        {
+            "name": "Bursting Grub",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bursting+Grub"
+        },
+        {
+            "name": "Cursed Dart",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Cursed+Dart"
+        },
+        {
+            "name": "Cursed Effigy",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Cursed+Effigy"
+        },
+        {
+            "name": "Empyrean Grenade",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Empyrean+Grenade"
+        },
+        {
+            "name": "Enhanced Accusing Spirit",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Accusing+Spirit"
+        },
+        {
+            "name": "Enhanced Bloody Hatchet",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Bloody+Hatchet"
+        },
+        {
+            "name": "Enhanced Cursed Dart",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Cursed+Dart"
+        },
+        {
+            "name": "Enhanced Cursed Effigy",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Cursed+Effigy"
+        },
+        {
+            "name": "Enhanced Empyrean Grenade",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Empyrean+Grenade"
+        },
+        {
+            "name": "Enhanced Fire Grenade",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Fire+Grenade"
+        },
+        {
+            "name": "Enhanced Forceburst Parchment",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Forceburst+Parchment"
+        },
+        {
+            "name": "Enhanced Forsaken Grenade",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Forsaken+Grenade"
+        },
+        {
+            "name": "Enhanced Grenade",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Grenade"
+        },
+        {
+            "name": "Enhanced Holy Grenade",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Holy+Grenade"
+        },
+        {
+            "name": "Enhanced Lacerating Knife",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Lacerating+Knife"
+        },
+        {
+            "name": "Enhanced Lump Hammer",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Lump+Hammer"
+        },
+        {
+            "name": "Enhanced Poison Javelin",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Poison+Javelin"
+        },
+        {
+            "name": "Enhanced Poisoning Knife",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Poisoning+Knife"
+        },
+        {
+            "name": "Enhanced Radiantburst Parchment",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Radiantburst+Parchment"
+        },
+        {
+            "name": "Enhanced Rhogar Oil Flask",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Rhogar+Oil+Flask"
+        },
+        {
+            "name": "Enhanced Short Javelin",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Short+Javelin"
+        },
+        {
+            "name": "Enhanced Snake Oil Grenade",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Snake+Oil+Grenade"
+        },
+        {
+            "name": "Enhanced Umbral Burrower",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Enhanced+Umbral+Burrower"
+        },
+        {
+            "name": "Explosive Snare",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Explosive+Snare"
+        },
+        {
+            "name": "Fire Grenade",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Fire+Grenade"
+        },
+        {
+            "name": "Forceburst Parchment",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Forceburst+Parchment"
+        },
+        {
+            "name": "Forsaken Grenade",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Forsaken+Grenade"
+        },
+        {
+            "name": "Grenade",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Grenade"
+        },
+        {
+            "name": "Holy Grenade",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Holy+Grenade"
+        },
+        {
+            "name": "Imbruing Chalice",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Imbruing+Chalice"
+        },
+        {
+            "name": "Lacerating Knife",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lacerating+Knife"
+        },
+        {
+            "name": "Lump Hammer",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lump+Hammer"
+        },
+        {
+            "name": "Poison Javelin",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Poison+Javelin"
+        },
+        {
+            "name": "Poisoning Knife",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Poisoning+Knife"
+        },
+        {
+            "name": "Radiantburst Parchment",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Radiantburst+Parchment"
+        },
+        {
+            "name": "Rhogar Oil Flask",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rhogar+Oil+Flask"
+        },
+        {
+            "name": "Short Javelin",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Short+Javelin"
+        },
+        {
+            "name": "Snake Oil Grenade",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Snake+Oil+Grenade"
+        },
+        {
+            "name": "Throwing Rock",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Throwing+Rock"
+        },
+        {
+            "name": "Umbral Burrower",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Umbral+Burrower"
         }
     ]
 }
