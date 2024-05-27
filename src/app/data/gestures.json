@@ -1,107 +1,112 @@
 [
     {
         "name": "Agreeing",
-        "description": "Available by default",
-        "wiki_link": "#"
-    },
-    {
-        "name": "Disagreeing",
-        "description": "Available by default",
-        "wiki_link": "#"
-    },
-    {
-        "name": "Greeting",
-        "description": "Available by default",
-        "wiki_link": "#"
-    },
-    {
-        "name": "Pointing Downward",
-        "description": "Available by default",
-        "wiki_link": "#"
-    },
-    {
-        "name": "Pointing Forward",
-        "description": "Available by default",
-        "wiki_link": "#"
-    },
-    {
-        "name": "Pointing Upward",
-        "description": "Available by default",
-        "wiki_link": "#"
-    },
-    {
-        "name": "Dark Crusader's Challenge",
-        "description": "Interact with Exacter Dunmire at Skyrest for the first time.",
-        "wiki_link": "#"
-    },
-    {
-        "name": "Putrid Mother's Embrace",
-        "description": "Interact with the Shrine of the Putrid Mother next to Molhu at Skyrest for the first time.",
-        "wiki_link": "#"
-    },
-    {
-        "name": "Orian Vow Of Protection",
-        "description": "Interact with the Shrine of Orius next to Nathaniel at Skyrest for the first time.",
-        "wiki_link": "#"
-    },
-    {
-        "name": "Common Orian Prayer",
-        "description": "Once you've beaten Scourged Sister Delyth, head to Pilgrim's Perch. Climb a ladder, move ahead, and you'll spot another ladder. Go up that one too. At the top, step into the Umbral realm. Use Soulflay on the platform to make it to the other side.",
-        "wiki_link": "#"
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Agreeing"
     },
     {
         "name": "Beckoning",
-        "description": "Interact with Thehk-Ihir outside Skyrest for the first time.",
-        "wiki_link": "#"
-    },
-    {
-        "name": "Crimson Ritual Fervou",
-        "description": "Reach the Shrine of Adyr and interact with it for the first time.",
-        "wiki_link": "#"
-    },
-    {
-        "name": "Pledge To Adyr",
-        "description": "From Upper Calrath Mining District/Vestige of Doln, continue forward until you reach the outside of the alley. Descend to the lower level, and you'll discover loot near some wooden sticks, close to a spellcaster enemy. Collect it to obtain the gesture.",
-        "wiki_link": "#"
-    },
-    {
-        "name": "Halting",
-        "description": "During your journey in the Fief of the Chill Curse, you'll explore an ice cave. About halfway through the cave, you'll discover a loot that contains the gesture.",
-        "wiki_link": "#"
-    },
-    {
-        "name": "Hallowed Sentinel",
-        "description": "Just before you reach the spot where you meet Stomund at the Abbey of the Hallowed Sisters, there's an area with a tree in the center. At the base of the tree, you can find the loot holding the gesture.",
-        "wiki_link": "#"
-    },
-    {
-        "name": "Calrath Noble's Bow",
-        "description": "Interact with the Tortured Prisoner at the entrance of the Pieta boss arena in Skyrest.",
-        "wiki_link": "#"
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Beckoning"
     },
     {
         "name": "Bemoaning",
-        "description": "Interact with Byron at Sunless Skein Hoist/Vestige of Catrin.",
-        "wiki_link": "#"
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bemoaning"
+    },
+    {
+        "name": "Bucketlord's Salute",
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Bucketlord's+Salute"
+    },
+    {
+        "name": "Calrath Noble's Bow",
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Calrath+Noble's+Bow"
     },
     {
         "name": "Celebration",
-        "description": "Interact with Winterberry at Revelation Depths.",
-        "wiki_link": "#"
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Celebration"
     },
     {
-        "name": "Surrender",
-        "description": "To achieve this, you must progress through the Iron Wayfarer quest.",
-        "wiki_link": "#"
+        "name": "Common Orian Prayer",
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Common+Orian+Prayer"
     },
     {
-        "name": "Wheezing",
-        "description": "You need to progress through Drustan quest to achieve this.",
-        "wiki_link": "#"
+        "name": "Crimson Ritual Fervour",
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Crimson+Ritual+Fervour"
+    },
+    {
+        "name": "Dark Crusader's Challenge",
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Dark+Crusader's+Challenge"
+    },
+    {
+        "name": "Disagreeing",
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Disagreeing"
+    },
+    {
+        "name": "Greeting",
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Greeting"
+    },
+    {
+        "name": "Hallowed Sentinel Prayer",
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hallowed+Sentinel+Prayer"
+    },
+    {
+        "name": "Halting",
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Halting"
     },
     {
         "name": "Laughter",
-        "description": "You need to follow Damarose the Marked quest to get this gesture.",
-        "wiki_link": "#"
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Laughter"
+    },
+    {
+        "name": "Orian Vow of Protection",
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Orian+Vow+of+Protection"
+    },
+    {
+        "name": "Pledge to Adyr",
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pledge+to+Adyr"
+    },
+    {
+        "name": "Pointing Downward",
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pointing+Downward"
+    },
+    {
+        "name": "Pointing Forward",
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pointing+Forward"
+    },
+    {
+        "name": "Pointing Upward",
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pointing+Upward"
+    },
+    {
+        "name": "Putrid Mothers' Embrace",
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Putrid+Mothers'+Embrace"
+    },
+    {
+        "name": "Surrender",
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Surrender"
+    },
+    {
+        "name": "Wheezing",
+        "description": "",
+        "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Wheezing"
     }
 ]
