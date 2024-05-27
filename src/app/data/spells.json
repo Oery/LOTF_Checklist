@@ -46,9 +46,19 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Healing+Sigil"
         },
         {
+            "name": "Invigorating Aura",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Invigorating+Aura"
+        },
+        {
             "name": "Lacerating Weapon",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lacerating+Weapon"
+        },
+        {
+            "name": "Lambent Feint",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Lambent+Feint"
         },
         {
             "name": "Lucent Beam",
@@ -96,9 +106,19 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Sanctify"
         },
         {
-            "name": "Invigorating Aura",
+            "name": "Smiting Shield",
             "description": "",
-            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Invigorating+Aura"
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Smiting+Shield"
+        },
+        {
+            "name": "The Tolling",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/The+Tolling"
+        },
+        {
+            "name": "Vortex of Torment",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Vortex+of+Torment"
         }
     ],
     "inferno": [
@@ -128,6 +148,11 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Adyr's+Vengeance"
         },
         {
+            "name": "Blistering Salvo",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Blistering+Salvo"
+        },
+        {
             "name": "Cataclysm",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Cataclysm"
@@ -141,6 +166,11 @@
             "name": "Flame Funnel",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Flame+Funnel"
+        },
+        {
+            "name": "Incinerating Blast",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Incinerating+Blast"
         },
         {
             "name": "Infernal Decree",
@@ -193,6 +223,16 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pyroclastic+Stone"
         },
         {
+            "name": "Rising Fire",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Rising+Fire"
+        },
+        {
+            "name": "Seared Soul",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Seared+Soul+(Spell)"
+        },
+        {
             "name": "Seismic Slam",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Seismic+Slam"
@@ -235,6 +275,11 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Grieving+Gaze"
         },
         {
+            "name": "Hibernal Cleave",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Hibernal+Cleave"
+        },
+        {
             "name": "Latimer's Javelin",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Latimer's+Javelin"
@@ -260,6 +305,11 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Painful+Echo"
         },
         {
+            "name": "Pallid Bile",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pallid+Bile"
+        },
+        {
             "name": "Pestilent Blade",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Pestilent+Blade"
@@ -270,9 +320,19 @@
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Poison+Weapon"
         },
         {
+            "name": "Puncturing Hail",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Puncturing+Hail"
+        },
+        {
             "name": "Putrefaction",
             "description": "",
             "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Putrefaction"
+        },
+        {
+            "name": "Septic Heave",
+            "description": "",
+            "wiki_link": "https://thelordsofthefallen.wiki.fextralife.com/Septic+Heave"
         },
         {
             "name": "Umbral Agony",
