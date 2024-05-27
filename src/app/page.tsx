@@ -11,7 +11,7 @@ import rings from "./data/rings.json";
 import gestures from "./data/gestures.json";
 import pendants from "./data/pendants.json";
 import bosses from "./data/bosses.json";
-import umbralEyes from "./data/umbral-eyes.json";
+import umbralEyes from "./data/umbral_eyes.json";
 
 function App(): JSX.Element {
     const data = {
