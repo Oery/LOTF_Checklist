@@ -1,6 +1,12 @@
-import data from "../data.json";
+type CategoryName =
+    | "armors"
+    | "weapons"
+    | "rings"
+    | "gestures"
+    | "pendants"
+    | "bosses"
+    | "umbralEyes";
 
-type CategoryName = keyof typeof data;
 // Assuming Item is already defined
 interface Item {
     name: string;
