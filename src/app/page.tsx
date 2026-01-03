@@ -55,6 +55,7 @@ function App(): JSX.Element {
             </nav>
 
             <h1>Lords Of The Fallen Checklist</h1>
+            <div>Last Updated: Jun 17, 2024 (contribute at github.com/Oery/LOTF_Checklist/)</div>
 
             <Tab
                 name={activeTab}
